@@ -848,28 +848,6 @@
       "prestigeLevel": 100
     },
     {
-      "characterName": "S49",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "S50",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
       "characterName": "K30",
       "legacyPrestigeLevel": 3,
       "characterItems": [],
@@ -989,116 +967,7 @@
         "ringData": []
       },
       "prestigeLevel": 100
-    },
-    {
-      "characterName": "K41",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K42",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K43",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K44",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K45",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K46",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K47",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K48",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K49",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
-    },
-    {
-      "characterName": "K50",
-      "legacyPrestigeLevel": 3,
-      "characterItems": [],
-      "bloodWebLevel": 51,
-      "bloodWebData": {
-        "paths": [],
-        "ringData": []
-      },
-      "prestigeLevel": 100
     }
   ]
 }
+
