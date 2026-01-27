@@ -5,8 +5,7 @@
   "bloodWebLevel": 51,
   "prestigeLevel": 100,
   "bloodWebData": {
-    "paths": [
-    ],
+    "paths": [],
     "ringData": [
       {
         "nodeData": [
@@ -5209,6 +5208,30 @@
       "quantity": 3
     },
     {
+      "itemId": "K41P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "K41P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "K41P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "K42P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "K42P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "K42P03",
+      "quantity": 3
+    },
+    {
       "itemId": "S42P01",
       "quantity": 3
     },
@@ -5278,6 +5301,42 @@
     },
     {
       "itemId": "S48P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "S49P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "S49P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "S49P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "S50P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "S50P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "S50P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "S51P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "S51P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "S51P03",
       "quantity": 3
     },
     {
@@ -5370,6 +5429,166 @@
     },
     {
       "itemId": "Addon_K36_20",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_01",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_02",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_03",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_04",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_05",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_06",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_07",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_08",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_09",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_10",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_11",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_12",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_13",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_14",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_15",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_16",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_17",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_18",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_19",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_20",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_01",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_02",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_03",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_04",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_05",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_06",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_07",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_08",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_09",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_10",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_11",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_12",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_13",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_14",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_15",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_16",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_17",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_18",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_19",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K42_20",
       "quantity": 1
     },
     {
