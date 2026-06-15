@@ -5770,6 +5770,98 @@
     {
       "itemId": "Addon_K40_20",
       "quantity": 1
+    },
+    {
+      "itemId": "K43P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "K43P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "K43P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "Addon_K43_01",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_02",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_03",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_04",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_05",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_06",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_07",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_08",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_09",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_10",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_11",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_12",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_13",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_14",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_15",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_16",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_17",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_18",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_19",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K43_20",
+      "quantity": 1
     }
   ],
   "legacyPrestigeLevel": 3
