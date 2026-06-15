@@ -1033,6 +1033,17 @@
         "ringData": []
       },
       "prestigeLevel": 100
+    },
+    {
+      "characterName": "K43",
+      "legacyPrestigeLevel": 3,
+      "characterItems": [],
+      "bloodWebLevel": 51,
+      "bloodWebData": {
+        "paths": [],
+        "ringData": []
+      },
+      "prestigeLevel": 100
     }
   ]
 }
