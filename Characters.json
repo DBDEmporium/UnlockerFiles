@@ -1,0 +1,482 @@
+[
+  {
+    "itemId": "S41",
+    "Name": "Sable Ward",
+    "Index": "40"
+  },
+  {
+    "itemId": "S33",
+    "Name": "Rebecca Chambers",
+    "Index": "32"
+  },
+  {
+    "itemId": "Nea",
+    "Name": "Nea Karlsson",
+    "Index": "4"
+  },
+  {
+    "itemId": "Laurie",
+    "Name": "Laurie Strode",
+    "Index": "5"
+  },
+  {
+    "itemId": "S36",
+    "Name": "Renato Lyra",
+    "Index": "35"
+  },
+  {
+    "itemId": "S29",
+    "Name": "Jonah Vasquez",
+    "Index": "28"
+  },
+  {
+    "itemId": "S37",
+    "Name": "Gabriel Soma",
+    "Index": "36"
+  },
+  {
+    "itemId": "Jake",
+    "Name": "Jake Park",
+    "Index": "3"
+  },
+  {
+    "itemId": "S24",
+    "Name": "Élodie Rakoto",
+    "Index": "23"
+  },
+  {
+    "itemId": "Dwight",
+    "Name": "Dwight Fairfield",
+    "Index": "0"
+  },
+  {
+    "itemId": "Clown",
+    "Name": "The Clown",
+    "Index": "268435467"
+  },
+  {
+    "itemId": "S25",
+    "Name": "Lee Yun-jin",
+    "Index": "24"
+  },
+  {
+    "itemId": "Smoke",
+    "Name": "David King",
+    "Index": "9"
+  },
+  {
+    "itemId": "S50",
+    "Name": "Dustin Henderson",
+    "Index": "49"
+  },
+  {
+    "itemId": "Adam",
+    "Name": "Adam Francis",
+    "Index": "13"
+  },
+  {
+    "itemId": "Eric",
+    "Name": "Detective Tapp",
+    "Index": "12"
+  },
+  {
+    "itemId": "S51",
+    "Name": "Eleven",
+    "Index": "50"
+  },
+  {
+    "itemId": "S39",
+    "Name": "Ellen Ripley",
+    "Index": "38"
+  },
+  {
+    "itemId": "Jane",
+    "Name": "Jane Romero",
+    "Index": "15"
+  },
+  {
+    "itemId": "Quentin",
+    "Name": "Quentin Smith",
+    "Index": "11"
+  },
+  {
+    "itemId": "S30",
+    "Name": "Yoichi Asakawa",
+    "Index": "29"
+  },
+  {
+    "itemId": "S52",
+    "Name": "Kwon Tae-young",
+    "Index": "51"
+  },
+  {
+    "itemId": "S32",
+    "Name": "Ada Wong",
+    "Index": "31"
+  },
+  {
+    "itemId": "S22",
+    "Name": "Cheryl Mason",
+    "Index": "21"
+  },
+  {
+    "itemId": "S31",
+    "Name": "Haddie Kaur",
+    "Index": "30"
+  },
+  {
+    "itemId": "Meg",
+    "Name": "Meg Thomas",
+    "Index": "1"
+  },
+  {
+    "itemId": "K32",
+    "Name": "The Singularity",
+    "Index": "268435487"
+  },
+  {
+    "itemId": "Pig",
+    "Name": "The Pig",
+    "Index": "268435466"
+  },
+  {
+    "itemId": "K24",
+    "Name": "The Nemesis",
+    "Index": "268435479"
+  },
+  {
+    "itemId": "Feng",
+    "Name": "Feng Min",
+    "Index": "8"
+  },
+  {
+    "itemId": "Demogorgon",
+    "Name": "The Demogorgon",
+    "Index": "268435472"
+  },
+  {
+    "itemId": "S46",
+    "Name": "Orela Rose",
+    "Index": "45"
+  },
+  {
+    "itemId": "S35",
+    "Name": "Thalita Lyra",
+    "Index": "34"
+  },
+  {
+    "itemId": "Oni",
+    "Name": "The Oni",
+    "Index": "268435473"
+  },
+  {
+    "itemId": "K38",
+    "Name": "The Houndmaster",
+    "Index": "268435493"
+  },
+  {
+    "itemId": "Legion",
+    "Name": "The Legion",
+    "Index": "268435469"
+  },
+  {
+    "itemId": "Steve",
+    "Name": "Steve Harrington",
+    "Index": "18"
+  },
+  {
+    "itemId": "Bill",
+    "Name": "William \"Bill\" Overbeck",
+    "Index": "7"
+  },
+  {
+    "itemId": "Claudette",
+    "Name": "Claudette Morel",
+    "Index": "2"
+  },
+  {
+    "itemId": "K25",
+    "Name": "The Cenobite",
+    "Index": "268435480"
+  },
+  {
+    "itemId": "S23",
+    "Name": "Felix Richter",
+    "Index": "22"
+  },
+  {
+    "itemId": "Killer07",
+    "Name": "The Doctor",
+    "Index": "268435462"
+  },
+  {
+    "itemId": "S44",
+    "Name": "Trevor Belmont",
+    "Index": "43"
+  },
+  {
+    "itemId": "Spirit",
+    "Name": "The Spirit",
+    "Index": "268435468"
+  },
+  {
+    "itemId": "S47",
+    "Name": "Rick Grimes",
+    "Index": "46"
+  },
+  {
+    "itemId": "S28",
+    "Name": "Mikaela Reid",
+    "Index": "27"
+  },
+  {
+    "itemId": "S38",
+    "Name": "Nicolas Cage",
+    "Index": "37"
+  },
+  {
+    "itemId": "Witch",
+    "Name": "The Hag",
+    "Index": "268435460"
+  },
+  {
+    "itemId": "K29",
+    "Name": "The Mastermind",
+    "Index": "268435484"
+  },
+  {
+    "itemId": "Jeff",
+    "Name": "Jeff Johansen",
+    "Index": "14"
+  },
+  {
+    "itemId": "Ash",
+    "Name": "Ashley J. Williams",
+    "Index": "16"
+  },
+  {
+    "itemId": "K22",
+    "Name": "The Twins",
+    "Index": "268435477"
+  },
+  {
+    "itemId": "S40",
+    "Name": "Alan Wake",
+    "Index": "39"
+  },
+  {
+    "itemId": "Nancy",
+    "Name": "Nancy Wheeler",
+    "Index": "17"
+  },
+  {
+    "itemId": "K31",
+    "Name": "The Skull Merchant",
+    "Index": "268435486"
+  },
+  {
+    "itemId": "S34",
+    "Name": "Vittorio Toscano",
+    "Index": "33"
+  },
+  {
+    "itemId": "Shape",
+    "Name": "The Shape",
+    "Index": "268435461"
+  },
+  {
+    "itemId": "K39",
+    "Name": "The Ghoul",
+    "Index": "268435494"
+  },
+  {
+    "itemId": "K34",
+    "Name": "The Good Guy",
+    "Index": "268435489"
+  },
+  {
+    "itemId": "Plague",
+    "Name": "The Plague",
+    "Index": "268435470"
+  },
+  {
+    "itemId": "K33",
+    "Name": "The Xenomorph",
+    "Index": "268435488"
+  },
+  {
+    "itemId": "S26",
+    "Name": "Jill Valentine",
+    "Index": "25"
+  },
+  {
+    "itemId": "Nightmare",
+    "Name": "The Nightmare",
+    "Index": "268435465"
+  },
+  {
+    "itemId": "Ghostface",
+    "Name": "The Ghost Face",
+    "Index": "268435471"
+  },
+  {
+    "itemId": "HillBilly",
+    "Name": "The Hillbilly",
+    "Index": "268435458"
+  },
+  {
+    "itemId": "K40",
+    "Name": "The Animatronic",
+    "Index": "268435495"
+  },
+  {
+    "itemId": "S53",
+    "Name": "Shane Wiigwaas",
+    "Index": "52"
+  },
+  {
+    "itemId": "Kate",
+    "Name": "Kate Denson",
+    "Index": "10"
+  },
+  {
+    "itemId": "Bob",
+    "Name": "The Wraith",
+    "Index": "268435457"
+  },
+  {
+    "itemId": "Cannibal",
+    "Name": "The Cannibal",
+    "Index": "268435464"
+  },
+  {
+    "itemId": "Ace",
+    "Name": "Ace Visconti",
+    "Index": "6"
+  },
+  {
+    "itemId": "S45",
+    "Name": "Taurie Cain",
+    "Index": "44"
+  },
+  {
+    "itemId": "S48",
+    "Name": "Michonne Grimes",
+    "Index": "47"
+  },
+  {
+    "itemId": "K26",
+    "Name": "The Artist",
+    "Index": "268435481"
+  },
+  {
+    "itemId": "K20",
+    "Name": "The Executioner",
+    "Index": "268435475"
+  },
+  {
+    "itemId": "K43",
+    "Name": "The Slasher",
+    "Index": "268435498"
+  },
+  {
+    "itemId": "K28",
+    "Name": "The Dredge",
+    "Index": "268435483"
+  },
+  {
+    "itemId": "K42",
+    "Name": "The First",
+    "Index": "268435497"
+  },
+  {
+    "itemId": "K27",
+    "Name": "The Onryō",
+    "Index": "268435482"
+  },
+  {
+    "itemId": "K21",
+    "Name": "The Blight",
+    "Index": "268435476"
+  },
+  {
+    "itemId": "Zarina",
+    "Name": "Zarina Kassir",
+    "Index": "20"
+  },
+  {
+    "itemId": "S43",
+    "Name": "Lara Croft",
+    "Index": "42"
+  },
+  {
+    "itemId": "K41",
+    "Name": "The Krasue",
+    "Index": "268435496"
+  },
+  {
+    "itemId": "Yui",
+    "Name": "Yui Kimura",
+    "Index": "19"
+  },
+  {
+    "itemId": "S42",
+    "Name": "Aestri Yazar",
+    "Index": "41"
+  },
+  {
+    "itemId": "K23",
+    "Name": "The Trickster",
+    "Index": "268435478"
+  },
+  {
+    "itemId": "S27",
+    "Name": "Leon S. Kennedy",
+    "Index": "26"
+  },
+  {
+    "itemId": "K37",
+    "Name": "The Dark Lord",
+    "Index": "268435492"
+  },
+  {
+    "itemId": "K30",
+    "Name": "The Knight",
+    "Index": "268435485"
+  },
+  {
+    "itemId": "Nurse",
+    "Name": "The Nurse",
+    "Index": "268435459"
+  },
+  {
+    "itemId": "K35",
+    "Name": "The Unknown",
+    "Index": "268435490"
+  },
+  {
+    "itemId": "Gunslinger",
+    "Name": "The Deathslinger",
+    "Index": "268435474"
+  },
+  {
+    "itemId": "K36",
+    "Name": "The Lich",
+    "Index": "268435491"
+  },
+  {
+    "itemId": "Bear",
+    "Name": "The Huntress",
+    "Index": "268435463"
+  },
+  {
+    "itemId": "S49",
+    "Name": "Vee Boonyasak",
+    "Index": "48"
+  },
+  {
+    "itemId": "Chuckles",
+    "Name": "The Trapper",
+    "Index": "268435456"
+  }
+]

@@ -1,0 +1,877 @@
+[
+  {
+    "Id": "BoneSplinter",
+    "DisplayName": "Bone Splinter",
+    "Description": "Allows you to take on the role of The Cannibal for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"You like this face? \" -Hitchhiker",
+    "IconName": "iconFavors_boneSplinter.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "ArdentRavenWreath",
+    "DisplayName": "Ardent Raven Wreath",
+    "Description": "Grants 100% bonus Bloodpoints in the Deviousness category.\n\"Crafted with a fiery, undying passion out of blackened branches and coals, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_ardentRavenWreath.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "ArdentShrikeWreath",
+    "DisplayName": "Ardent Shrike Wreath",
+    "Description": "Grants 100% bonus Bloodpoints in the Sacrifice category.\n\"Crafted with a fiery, undying passion out of sticks, strings and bones, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_ardentShrikeWreath.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "ArdentSpottedowlWreath",
+    "DisplayName": "Ardent Spotted Owl Wreath",
+    "Description": "Grants 100% bonus Bloodpoints in the Hunting category.\n\"Crafted with a fiery, undying passion out of sharp metals, ropes and feathers, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_ardentSpottedOwlWreath.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "ArdentTanagerWreath",
+    "DisplayName": "Ardent Tanager Wreath",
+    "Description": "Grants 100% bonus Bloodpoints in the Brutality category.\n\"Crafted with a fiery, undying passion out of bloody sticks and guts, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_ardentTanagerWreath.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "AzarovKey",
+    "DisplayName": "Azarov's Key",
+    "Description": "Tremendously increases the chances of being sent to the Autohaven Wreckers when burnt.\n-Secret.\n-Does not stack.\n\"A broken key belonging to a vehicle of unknown brand. A keychain attached to it identifies the owner as a certain A. Azarov.\"",
+    "IconName": "iconFavors_azarovsKey.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "BlackSaltStatuette",
+    "DisplayName": "Black Salt Statuette",
+    "Description": "Unlocks the ability to attempt to unhook yourself for all Survivors.\n\nIncreases all Survivors' luck by 2%.\n\"A friable miniature statuette made of black salt representing a woman in a kneeling position offering a gift. Some believe it brings good fortune.\"",
+    "IconName": "iconFavors_blackSaltStatuette.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "BlackWard",
+    "DisplayName": "Black Ward",
+    "Description": "Burning this offering grants you protection against the loss of your add-ons at the end of the trial.\n-Secret.\n\"Hear my voice, spare my ways, protect me from the void.\"",
+    "IconName": "iconFavors_wardBlack.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "BogLaurelSachet",
+    "DisplayName": "Bog Laurel Sachet",
+    "Description": "Grants 50% bonus Bloodpoints in the Objective category.\n\n-Personal.\n\"A palm-sized hand-sewn sachet filled with dry leaves. Releases a faint tea-like aroma.\"",
+    "IconName": "iconFavors_bogLaurelSachet.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "BoundEnvelope",
+    "DisplayName": "Bound Envelope",
+    "Description": "Grants 25% bonus Bloodpoints in all categories to all Survivors.\n\"An opened envelope re-sealed and bound with 4 colored ribbons.\"",
+    "IconName": "iconFavors_boundEnvelope.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "CattleTag28",
+    "DisplayName": "Cattle Tag-28",
+    "Description": "Slightly increases the chances of being sent to Coldwind Farm when burnt.\n\n-Stacks.\n\"A bloodstained cattle tag identified with the number '28'.\"",
+    "IconName": "iconFavors_cattleTag28.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "ChalkPouch",
+    "DisplayName": "Chalk Pouch",
+    "Description": "Unlocks the ability to attempt to unhook yourself.\n\nIncreases your luck by 1%.\n\n-Secret.\n\"A small cotton pouch filled with a white chalky powder of unknown origin. Some believe it brings good fortune.\"",
+    "IconName": "iconFavors_chalkPouch.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "CharredWeddingPhotograph",
+    "DisplayName": "Charred Wedding Photograph",
+    "Description": "Tremendously increases the chances of being sent to Crotus Prenn Asylum when burnt.\n-Secret.\n-Does not stack.\n\"A burned portrait of a couple on their wedding day, the faces are completely charred and unidentifiable.\"",
+    "IconName": "iconFavors_charredWeddingPhotograph.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "ClearReagent",
+    "DisplayName": "Clear Reagent",
+    "Description": "Slightly lessens the Dark Mist.\n-Secret.\n\"The Mist rolls in, traps all in Its deep madness. There is no running, no escape, no asylum, except for the clear waters of the pond lost in the forest.\" -Unknown, Notebook",
+    "IconName": "iconFavors_clearReagent.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "ColdwindCattleTag81",
+    "DisplayName": "Coldwind Cattle Tag-81",
+    "Description": "Considerably increases the chances of being sent to Coldwind Farm when burnt.\n\n-Stacks.\n\"A bloodstained cattle tag identified with 'Coldwind Farm' and the number '81'.\"",
+    "IconName": "iconFavors_cattleTag81.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "CreamChalkPouch",
+    "DisplayName": "Cream Chalk Pouch",
+    "Description": "Unlocks the ability to attempt to unhook yourself.\n\nIncreases your luck by 2%.\n\n-Secret.\n\"A small cotton pouch half-filled with a cream colored chalky powder of unknown origin. Releases a faint herbal aroma. Some believe it brings good fortune.\"",
+    "IconName": "iconFavors_creamChalkPouch.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "CrescentMoonBouquet",
+    "DisplayName": "Crescent Moon Bouquet",
+    "Description": "Calls upon The Entity for a dimmed moonlight.\n\"The moon slowly fades into a smile: 'Don't worry, your secret is safe with me.' Or is it a grin?\"",
+    "IconName": "iconFavors_crecentMoonBouquet.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "CrispleafAmaranthSachet",
+    "DisplayName": "Crispleaf Amaranth Sachet",
+    "Description": "Grants 50% bonus Bloodpoints in the Survival category.\n\n-Personal.\n\"A palm-sized hand-sewn sachet stuffed with bead-like grain. Amaranth is said to be everlasting.\"",
+    "IconName": "iconFavors_crispleafAmaranthSachet.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "CutCoin",
+    "DisplayName": "Cut Coin",
+    "Description": "Calls on The Entity to prevent the appearance of 2 chests.\n-Secret.\n\"Two halves of a thick metallic coin.\"",
+    "IconName": "iconFavors_cutCoin.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "CypressMementoMori",
+    "DisplayName": "Cypress Memento Mori",
+    "Description": "Grants 10 000 post-trial bloodpoints upon performing any Mori on the last Survivor.\n\n-Secret.\n\"You worked well, the last one is yours.\"",
+    "IconName": "iconFavors_momentoMoriCypress.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "DevoutRavenWreath",
+    "DisplayName": "Devout Raven Wreath",
+    "Description": "Grants 75% bonus Bloodpoints in the Deviousness category.\n\"Devoutly crafted out of blackened branches and coals, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_devoutRavenWreath.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "DevoutShrikeWreath",
+    "DisplayName": "Devout Shrike Wreath",
+    "Description": "Grants 75% bonus Bloodpoints in the Sacrifice category.\n\"Devoutly crafted out of sticks, strings and bones, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_devoutShrikeWreath.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "DevoutSpottedowlWreath",
+    "DisplayName": "Devout Spotted Owl Wreath",
+    "Description": "Grants 75% bonus Bloodpoints in the Hunting category.\n\"Devoutly crafted out of sharp metals, ropes and feathers, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_devoutSpottedOwlWreath.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "DevoutTanagerWreath",
+    "DisplayName": "Devout Tanager Wreath",
+    "Description": "Grants 75% bonus Bloodpoints in the Brutality category.\n\"Devoutly crafted out of bloody sticks and guts, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_devoutTanagerWreath.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "EbonyMementoMori",
+    "DisplayName": "Ebony Memento Mori",
+    "Description": "Grants the ability to kill all Survivors who have reached the second Hook State by your hand during the next trial.\n-Secret.\n\"I could swear It spoke to the beast. It came to a halt, as if calmly listening to the leaves rustling, and then... grinned.\"",
+    "IconName": "iconFavors_momentoMoriEbony.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "FaintReagent",
+    "DisplayName": "Faint Reagent",
+    "Description": "Slightly thickens the Dark Mist.\n-Secret.\n\"Paralyzed, I stand in the cold as death lingers.\"",
+    "IconName": "iconFavors_faintReagent.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "FragrantBogLaurel",
+    "DisplayName": "Fragrant Bog Laurel",
+    "Description": "Grants 100% bonus Bloodpoints in the Objective category.\n\n-Personal.\n\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a strong tea-like aroma.\"",
+    "IconName": "iconFavors_fragrantBogLaurel.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "FragrantCrispleafAmaranth",
+    "DisplayName": "Fragrant Crispleaf Amaranth",
+    "Description": "Grants 100% bonus Bloodpoints in the Survival category.\n\n-Personal.\n\"The pale green leaves are highlighted with peculiar crimson veins. Releases a strong radish aroma.\"",
+    "IconName": "iconFavors_fragrantCrispleafAmaranth.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "FragrantPrimroseBlossom",
+    "DisplayName": "Fragrant Primrose Blossom",
+    "Description": "Grants 100% bonus Bloodpoints in the Altruism category.\n\n-Personal.\n\"Golden flowers harvested at their peak. Releases a strong earthy and comforting aroma.\"",
+    "IconName": "iconFavors_fragrantPrimroseBlossom.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "FragrantSweetWilliam",
+    "DisplayName": "Fragrant Sweet William",
+    "Description": "Grants 100% bonus Bloodpoints in the Boldness category.\n\n-Personal.\n\"A bunch of flowers with pink petals and a blood red core. Releases a strong spicy, clove-like scent.\"",
+    "IconName": "iconFavors_fragrantSweetWilliam.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "FreshBogLaurel",
+    "DisplayName": "Fresh Bog Laurel",
+    "Description": "Grants 75% bonus Bloodpoints in the Objective category.\n\n-Personal.\n\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a mild tea-like aroma.\"",
+    "IconName": "iconFavors_freshBogLaurel.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "FreshCrispleafAmaranth",
+    "DisplayName": "Fresh Crispleaf Amaranth",
+    "Description": "Grants 75% bonus Bloodpoints in the Survival category.\n\n-Personal.\n\"The pale green leaves are highlighted with peculiar crimson veins. Amaranth is said to be everlasting.\"",
+    "IconName": "iconFavors_freshCrispleafAmaranth.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "FreshPrimroseBlossom",
+    "DisplayName": "Fresh Primrose Blossom",
+    "Description": "Grants 75% bonus Bloodpoints in the Altruism category.\n\n-Personal.\n\"Golden flowers harvested at their peak. The primrose opens at the very last moment before the sun gives place to the night.\"",
+    "IconName": "iconFavors_freshPrimroseBlossom.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "FreshSweetWilliam",
+    "DisplayName": "Fresh Sweet William",
+    "Description": "Grants 75% bonus Bloodpoints in the Boldness category.\n\n-Personal.\n\"A bunch of flowers with pink petals and a blood red core. Releases a spicy, clove-like scent.\"",
+    "IconName": "iconFavors_freshSweetWilliam.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "FullMoonBouquet",
+    "DisplayName": "Full Moon Bouquet",
+    "Description": "Calls upon The Entity for the brightest moonlight.\n\"As the moon rises, the wolves howl, marking the beginning of the hunt.\"",
+    "IconName": "iconFavors_fullMoonBouquet.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "HazyReagent",
+    "DisplayName": "Hazy Reagent",
+    "Description": "Moderately thickens the Dark Mist.\n-Secret.\n\"The Mist is alluring, hypnotizing. I love It and fear It at the same time.\" -Donna's Sketchbook",
+    "IconName": "iconFavors_hazyReagent.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "HeartLocket",
+    "DisplayName": "Heart Locket",
+    "Description": "Tremendously increases the chances of being sent to Coldwind Farm when burnt.\n-Secret.\n-Does not stack.\n\"A silver heart locket necklace. The simple interior is engraved with the following: 'E+M'.\"",
+    "IconName": "iconFavors_heartLocket.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "HollowShell",
+    "DisplayName": "Hollow Shell",
+    "Description": "Grants 25% bonus Bloodpoints in all categories.\n\"An unidentifiable cocoon which was breached by whatever was inside.\"",
+    "IconName": "iconFavors_hollowShell.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "IvoryChalkPouch",
+    "DisplayName": "Ivory Chalk Pouch",
+    "Description": "Unlocks the ability to attempt to unhook yourself.\n\nIncreases your luck by 3%.\n-Secret.\n\"A small leather pouch displaying a straight white line hand-sewn on one of its sides. The bag is filled with an ivory chalky powder that shines under the moonlight. Some believe it brings good fortune.\"",
+    "IconName": "iconFavors_ivoryChalkPouch.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "IvoryMementoMori",
+    "DisplayName": "Ivory Memento Mori",
+    "Description": "Grants the ability to kill one Survivor who has reached the second Hook State by your hand during the next trial.\n-Secret.\n\"Grant me the favor of killing one.\"",
+    "IconName": "iconFavors_momentoMoriIvory.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "LunacyTicket",
+    "DisplayName": "Lunacy Ticket",
+    "Description": "Slightly increases the chances of being sent to Crotus Prenn Asylum when burnt.\n\n-Stacks.\n\"A worn and faded-out ticket of paper with unreadable information.\"",
+    "IconName": "iconFavors_lunacyTicket.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "MacmillanLedgerPage",
+    "DisplayName": "MacMillan Ledger Page",
+    "Description": "Slightly increases the chances of being sent to the MacMillan Estate when burnt.\n\n-Stacks.\n\"A torn and faded-out ledger page with unreadable information except for the MacMillan stamp.\"",
+    "IconName": "iconFavors_macmillianLedgerPage.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "MacMillanPhalanxBone",
+    "DisplayName": "MacMillan's Phalanx Bone",
+    "Description": "Tremendously increases the chances of being sent to the MacMillan Estate when burnt.\n-Secret.\n-Does not stack.\n\"MacMillan's skeletal remains were found in the basement of the mine's storehouse. His leg bones shattered into pieces and a mining hammer lying in his lap.\"",
+    "IconName": "iconFavors_macmilliansPhalanxBone.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "MoldyOak",
+    "DisplayName": "Moldy Oak",
+    "Description": "Calls upon The Entity to Slightly decrease the distance between sacrificial hooks appearing in the world.\n-Secret.\n\"A damp and decaying piece of oak replete with mold.\"",
+    "IconName": "iconFavors_moldyOak.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "MurkyReagent",
+    "DisplayName": "Murky Reagent",
+    "Description": "Greatly thickens the Dark Mist.\n-Secret.\n\"The Mist seems to protect us from the beast, but it is a poison, a cancer, filling us with darkness and insanity.\" -Unknown, Notebook",
+    "IconName": "iconFavors_murkyReagent.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "NewMoonBouquet",
+    "DisplayName": "New Moon Bouquet",
+    "Description": "Calls upon The Entity for the darkest moonlight.\n\"Better go back to sleep, there is no moon this night.\"",
+    "IconName": "iconFavors_newMoonBouquet.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "PElliotLunacyTicket",
+    "DisplayName": "P.Elliott Lunacy Ticket",
+    "Description": "Considerably increases the chances of being sent to Crotus Prenn Asylum when burnt.\n\n-Stacks.\n\"A pink paper ticket identifying Philip Elliott as to be transferred to Crotus Prenn Asylum.\"",
+    "IconName": "iconFavors_pElliottLunacyTicket.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "PetrifiedOak",
+    "DisplayName": "Petrified Oak",
+    "Description": "Calms The Entity and Slightly increases the distance between sacrificial hooks appearing in the world.\n-Secret.\n\"A deteriorating piece of petrified wood.\"",
+    "IconName": "iconFavors_petrifiedOak.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "PrimroseBlossomSachet",
+    "DisplayName": "Primrose Blossom Sachet",
+    "Description": "Grants 50% bonus Bloodpoints in the Altruism category.\n\n-Personal.\n\"A palm-sized hand-sewn sachet containing 4 gold petals. The primrose opens at the very last moment before the sun gives place to the night.\"",
+    "IconName": "iconFavors_primroseBlossomSachet.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "PutridOak",
+    "DisplayName": "Putrid Oak",
+    "Description": "Calls upon The Entity to Considerably decrease the distance between sacrificial hooks appearing in the world.\n-Secret.\n\"A ruined piece of oak oozing with a black putrescent liquid.\"",
+    "IconName": "iconFavors_putridOak.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "QuarterMoonBouquet",
+    "DisplayName": "Quarter Moon Bouquet",
+    "Description": "Calls upon The Entity for a brighter moonlight.\n\"The old moon shows her face, looking down on the prey.\"",
+    "IconName": "iconFavors_quarterMoonBouquet.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "RavenWreath",
+    "DisplayName": "Raven Wreath",
+    "Description": "Grants 50% bonus Bloodpoints in the Deviousness category.\n\"Crafted out of blackened branches and coals, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_ravenWreath.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "RottenOak",
+    "DisplayName": "Rotten Oak",
+    "Description": "Calls upon The Entity to Moderately decrease the distance between sacrificial hooks appearing in the world.\n-Secret.\n\"A decomposing piece of oak in which strange markings have been etched.\"",
+    "IconName": "iconFavors_rottenOak.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "SaltPouch",
+    "DisplayName": "Salt Pouch",
+    "Description": "Unlocks the ability to attempt to unhook yourself for all Survivors.\n\nIncreases all Survivors' luck by 1%.\n\"A small cotton pouch filled with black salt crystals. Some believe it brings good fortune. Don't spill it.\"",
+    "IconName": "iconFavors_saltPouch.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "ScratchedCoin",
+    "DisplayName": "Scratched Coin",
+    "Description": "Calls on The Entity to prevent the appearance of 1 chest.\n-Secret.\n\"A defaced coin of unknown origin.\"",
+    "IconName": "iconFavors_scratchedCoin.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "SealedEnvelope",
+    "DisplayName": "Sealed Envelope",
+    "Description": "Grants 25% bonus Bloodpoints in all categories.\n\n-Personal.\n\"An unaddressed and unopened envelope yellowed by time. Its message will never be known.\"",
+    "IconName": "iconFavors_sealedEnvelope.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "ShinyCoin",
+    "DisplayName": "Shiny Coin",
+    "Description": "Calls on The Entity to create 2 more chests.\n-Secret.\n\"A clean and polished piece of gold.\"",
+    "IconName": "iconFavors_shinyCoin.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "ShreddedPlate",
+    "DisplayName": "Shredded Plate",
+    "Description": "Slightly increases the chances of being sent to the Autohaven Wreckers when burnt.\n\n-Stacks.\n\"A heavily rusted, bent and torn metal sheet.\"",
+    "IconName": "iconFavors_plateShredded.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "ShrikeWreath",
+    "DisplayName": "Shrike Wreath",
+    "Description": "Grants 50% bonus Bloodpoints in the Sacrifice category.\n\"Crafted out of sticks, strings and bones, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_shrikeWreath.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "ShroudofBinding",
+    "DisplayName": "Shroud of Separation",
+    "Description": "All Survivors start the trial separated.\n\n-Secret.\n\"A thin black shroud which is falling apart.\"",
+    "IconName": "iconFavors_shroudOfSeparation.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "ShroudofSeparation",
+    "DisplayName": "Shroud of Vanishing",
+    "Description": "Calls on The Entity to nullify any offerings that would change the Survivors' starting locations.\n\n-Secret.\n\"In an instant, their power was lost.\"",
+    "IconName": "T_UI_iconsFavors_shroudOfVanishing.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "ShroudofUnion",
+    "DisplayName": "Shroud of Union",
+    "Description": "You start the trial with someone else.\n\n-Secret.\n\"A knotted piece of fabric.\"",
+    "IconName": "iconFavors_shroudOfUnion.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "SignedLedgerPage",
+    "DisplayName": "Signed Ledger Page",
+    "Description": "Considerably increases the chances of being sent to the MacMillan Estate when burnt.\n\n-Stacks.\n\"A faded-out ledger page referring to mining related equipment and other transactions. Signed by Archie MacMillan.\"",
+    "IconName": "iconFavors_signedLedgerPage.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "SpottedOwlWreath",
+    "DisplayName": "Spotted Owl Wreath",
+    "Description": "Grants 50% bonus Bloodpoints in the Hunting category.\n\"Crafted out of sharp metals, ropes and feathers, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_spottedOwlWreath.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "SweetWilliamSachet",
+    "DisplayName": "Sweet William Sachet",
+    "Description": "Grants 50% bonus Bloodpoints in the Boldness category.\n\n-Personal.\n\"A palm-sized hand-sewn sachet containing a mix of pale petals and glaucous bluish leaves. Releases a strong spicy, clove-like scent.\"",
+    "IconName": "iconFavors_sweetWilliamSachet.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "TanagerWreath",
+    "DisplayName": "Tanager Wreath",
+    "Description": "Grants 50% bonus Bloodpoints in the Brutality category.\n\"Crafted out of bloody sticks and guts, this wreath calls on The Entity's blessing for more blood.\"",
+    "IconName": "iconFavors_tanagerWreath.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "TarnishedCoin",
+    "DisplayName": "Tarnished Coin",
+    "Description": "Calls on The Entity to create 1 more chest.\n-Secret.\n\"A round piece of metal which has lost all sheen.\"",
+    "IconName": "iconFavors_tarnishedCoin.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "VigosShroud",
+    "DisplayName": "Vigo's Shroud",
+    "Description": "You start the trial as far as possible from the Killer.\n\n-Secret.\n\"I found marvels through the years in The Fog, but only now do I understand how to bend The Fog's irrefragable rules.\" -Vigo's Journal",
+    "IconName": "iconFavors_vigosShroud.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "VirginiaPlate",
+    "DisplayName": "Virginia Plate",
+    "Description": "Considerably increases the chances of being sent to the Autohaven Wreckers when burnt.\n\n-Stacks.\n\"A rusted and bent license plate from the state of Virginia.\"",
+    "IconName": "iconFavors_plateVirginia.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "WhiteWard",
+    "DisplayName": "White Ward",
+    "Description": "Burning this offering grants you protection against the loss of your item and add-ons.\n-Secret.\n\"Keep me from evil, defend me, and pass away.\"",
+    "IconName": "iconFavors_wardWhite.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "VigosJarOfSaltyLips",
+    "DisplayName": "Vigo's Jar of Salty Lips",
+    "Description": "Unlocks the ability to attempt to unhook yourself for all Survivors.\n\nIncreases all Survivors' luck by 3%.\n\"A tightly sealed glass jar containing torn human lips floating in a murky brine. Some believe it brings good fortune.\"",
+    "IconName": "iconFavors_jarOfSaltyLips.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "MuddySplinter",
+    "DisplayName": "Muddy Splinter",
+    "Description": "Allows you to take on the role of The Hag for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"Avoid walking in the mud or The Hag will eat your bones.\"",
+    "IconName": "iconFavors_muddySplinter.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "FumingCordage",
+    "DisplayName": "Fuming Cordage",
+    "Description": "Slightly increases the chances of being sent to Backwater Swamp when burnt.\n\n-Stacks.\n\"A burnt piece of marine rope still emitting a warm smoke.\"",
+    "IconName": "iconFavors_fumingCordage.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "FumingWelcomeSign",
+    "DisplayName": "Fuming Welcome Sign",
+    "Description": "Considerably increases the chances of being sent to Backwater Swamp when burnt.\n\n-Stacks.\n\"A welcome sign made from a coarse piece of water polished cypress board. The sign is charred and still fuming.\"",
+    "IconName": "iconFavors_fumingWelcomeSign.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "GranmasCookbook",
+    "DisplayName": "Grandma's Cookbook",
+    "Description": "Tremendously increases the chances of being sent to Backwater Swamp when burnt.\n-Secret.\n-Does not stack.\n\"A leather-bound binder containing horrible human meat recipes such as the granny-slappin’ good chili.\"",
+    "IconName": "iconFavors_granmasCookbook.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "EscapeCake",
+    "DisplayName": "Escape! Cake",
+    "Description": "Grants 100% bonus Bloodpoints in all categories.\n\n-Personal.\n\"This picture of a cake sure is real.\"",
+    "IconName": "iconFavors_escapeCake.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "SurvivorPudding",
+    "DisplayName": "Survivor Pudding",
+    "Description": "Grants 100% bonus Bloodpoints in all categories.\n\n-Personal.\n\"A heavily salted pudding...\"",
+    "IconName": "iconFavors_survivorPudding.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "BloodyPartyStreamers",
+    "DisplayName": "Bloody Party Streamers",
+    "Description": "Grants 100% bonus Bloodpoints in all categories for all players this trial.\n\"A reminder of a bloody good time when people came together, but left screaming.\"",
+    "IconName": "iconFavors_bloodyPartyStreamers.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Anniversary2019Offering",
+    "DisplayName": "Gruesome Gateau",
+    "Description": "A terrific stomach-churning cake to mark our three years together. Grants 103% bonus Bloodpoints in all categories for all players this trial.\n\"Happy Anniversary! Here's to our three years together!\"\n- The Dead by Daylight Team",
+    "IconName": "iconFavors_gruesomeGateau.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Anniversary2022Offering",
+    "DisplayName": "Frightful Flan",
+    "Description": "It may be a masquerade ball, but there is no masking the foul odor of this quivering yellow mass.\nConsuming it, however, fills you with vigor.\n\nGrants 106% bonus Bloodpoints in all categories for all players this trial.\n\"Happy Anniversary! We made you this cake/pie/pudding/unspeakable horror.\" \n- The Dead by Daylight Team",
+    "IconName": "iconsFavors_6thAnniversary.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Anniversary2025Offering",
+    "DisplayName": "Coconut Scream Pie",
+    "Description": "A metallic taste overpowers the coconut.\n-Grants 109% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of Invitation Pillars within 16 meters.\n\"The secret ingredient is love... wait, no, that's blood. Happy anniversary!\" \n- The Dead by Daylight Team",
+    "IconName": "T_UI_iconsFavors_9thAnniversary.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "SummerOffering",
+    "DisplayName": "BBQ Invitation",
+    "Description": "Has the distinct aroma of burning flesh.\n\n-Grants a 100% Bloodpoints bonus to Summer hooks and finished Summer generator repairs.\n\"Kick back and relax in the moonlight with an ice cold drink and some barbecued meats. The Entity has invited you to enjoy yourself this fine evening.\"",
+    "IconName": "iconFavors_bbqInvitation.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Spring2024Offering",
+    "DisplayName": "Bloodshot Eye",
+    "Description": "An eye filled with, and capable of finding, strange blood.\n\n-Personal.\n-Provides a +100% Bloodpoints bonus to all Blood Moon score events.\n-Only usable when playing Event: Blood Moon.",
+    "IconName": "iconFavors_bloodshotEye.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "RedMoney",
+    "DisplayName": "Red Envelope",
+    "Description": "A gesture of generosity to bring good fortune to the unfortunate. Calls upon The Entity to generate 1 Red Envelope in the trial.\n\n-The aura of your own envelope is revealed to you at the start of the trial.\n-Interacting with your own Red Envelope reveals its aura to all other players in the trial until claimed.\n-Opening another player's Red Envelope awards you with Bloodpoints of a random amount.\n-When another player opens your envelope during the trial, you are awarded Bloodpoints and a cosmetic from the Moonlight Burrow collection.\n-Increased Bloodpoints awarded from Lunar New Year Generators and Hooks.",
+    "IconName": "iconFavors_redMoneyPacket.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Winter2024Offering",
+    "DisplayName": "MISTLE TOES",
+    "Description": "If you see these things hanging over you, the last thing you'll want is a kiss.\n-Personal.\n-Start the trial carrying 12 Snowskulls.\n-Decreases number of Snowskulls required to charge an Icy Snowskull by 1.\n-Provides a +100% Bloodpoints bonus to all Bone Chill score events.\n-Create 1 more chest.\n-Only usable when playing Event: Bone Chill.",
+    "IconName": "iconsFavors_Winter.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Anniversary2024Offering",
+    "DisplayName": "SCREECH COBBLER",
+    "Description": "If you listen really closely, you can almost hear it screaming for more ice cream. \n\n\n-Grants 108% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of Invitation within 16 meters.\n-Create 1 more chest.\n\"Happy anniversary! Hope this comfort food isn't too... discomforting.\" \n- The Dead by Daylight Team",
+    "IconName": "iconsFavors_8thAnniversary.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Halloween2022Offering",
+    "DisplayName": "Arcane Dowsing Rod",
+    "Description": "Taps into the latent energy of The Entity's realm to find even more concentrated pockets of power.\n-Personal.\n-Provides a +100% Bloodpoints bonus to all Haunted By Daylight score events.\n-Only usable when playing Event: Haunted by Daylight.",
+    "IconName": "iconFavors_ArcaneDowsingRod.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Anniversary2023Offering",
+    "DisplayName": "TERRORMISU",
+    "Description": "A celebratory dessert to be eaten during the masquerade. Each layer is more horrifying than the last.\n\n\n-Grants 107% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of an Invitation within 32 meter(s).\n\"Thanks for celebrating our anniversary! Don't ask why it's so spongy.\" \n- The Dead by Daylight Team",
+    "IconName": "iconsFavors_7thAnniversary.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Anniversary2026Offering",
+    "DisplayName": "Toothy Torte",
+    "Description": "Puts the icing in sacrificing.\n-Grants 110% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of Tables within 16 meters.\n-Survivors start the Trial with a Morsel in hand, and Killers start with maximum Poison charges.\n\"Chew fast, or it'll chew you right back. Thanks for celebrating with us!\" -- The Dead by Daylight Team",
+    "IconName": "T_UI_iconsFavors_10thAnniversary.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "HalloweenOffering",
+    "DisplayName": "Pustula Petals",
+    "Description": "Calls upon The Entity to generate 1 Blighted Hook and 1 Blighted Generator.\n-As a Killer, hook a Survivor on a Blighted Hook for the first time to earn bonus Bloodpoints.\n-As a Survivor, find and repair a Blighted Generator to earn bonus Bloodpoints.\n-Using this offering increases the amount of Bloodpoints earned for these interactions.\n-NOTE: During the event, 1 default Blighted Hook and 1 default Blighted Generator will spawn in the map.\n-Stacks.\n-Only playable during the Midnight Grove Event.\"The pustulas fill the air with a rancid odor that some may find enticing.\"",
+    "IconName": "iconFavors_pustulaPetals.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "PaintedRiverRock",
+    "DisplayName": "Painted River Rock",
+    "Description": "Slightly increases the chances of being sent to Red Forest when burnt.\n\n-Stacks.\n\"A slick and soft rock, polished by a stream. Decorated with red, black and white paint to depict a serious looking bear.\"",
+    "IconName": "iconFavors_paintedRiverRock.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "ChildrensBook",
+    "DisplayName": "Children's Book",
+    "Description": "Considerably increases the chances of being sent to Red Forest when burnt.\n\n-Stacks.\n\"An ancient and decrepit story book, the pages of which have been lost to the elements.\"",
+    "IconName": "iconFavors_childrensBook.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "TheLastMask",
+    "DisplayName": "The Last Mask",
+    "Description": "Tremendously increases the chances of being sent to Red Forest when burnt.\n-Secret.\n-Does not stack.\n\"A beautifully crafted tiger mask that would fit snug on a child's face. A faded note in Cyrillic letters can be found scripted on the back.\"",
+    "IconName": "iconFavors_theLastMask.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "MeteorThemeOffering",
+    "DisplayName": "Ichorous Loam",
+    "Description": "Tremendously increases the chance to be sent to Withered Isle when burnt.\n-Secret.\n-Does not stack.\n\"Expel malthought from your mind, from your heart, from your mouth to prevent the darkness from corrupting your truth. For to let darkness find seed in your soul is to invite the Druanee.\"",
+    "IconName": "iconFavors_IchorousLoam.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "UmbraThemeOffering",
+    "DisplayName": "Alien Flora",
+    "Description": "Tremendously increases the chance to be sent to Toba Landing when burnt.\n-Secret.\n-Does not stack.\n\"Our arrival will change the face of this planet as we know it.\" -Sarah, Science Officer",
+    "IconName": "iconFavors_alienFlora.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Anniversary2021Offering",
+    "DisplayName": "Sacrificial Cake",
+    "Description": "A revolting cake that marks our five years together. The slightest taste fills you with an incomprehensible energy, reaching out to something beyond. Grants 105% bonus Bloodpoints in all categories for all players this trial.\n\"Happy anniversary! We’re dying to celebrate many more with you!\" \n- The Dead by Daylight Team",
+    "IconName": "iconsFavors_5thAnniversary.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "JapaneseCountrySide",
+    "DisplayName": "Yamaoka Family Crest",
+    "Description": "Tremendously increases the chances of being sent to Yamaoka Estate when burnt.\n-Secret.\n-Does not stack.\n\"You never leave a broken home. You only run away until the memories stop haunting you.\"",
+    "IconName": "iconFavors_yamaokasCrest.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "KenyaThemeOffering",
+    "DisplayName": "Damaged Photo",
+    "Description": "Tremendously increases the chance to be sent to Ormond when burnt.\n-Secret.\n-Does not stack.\nAug. 28th, ‘96\n\"A dormant darkness lies beneath his childlike smile, about to be awaken.\"",
+    "IconName": "iconFavors_damagedPhoto.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "ShockSplinter",
+    "DisplayName": "Shock Splinter",
+    "Description": "Allows you to take on the role of The Doctor for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"Your secrets are safe with me.\"",
+    "IconName": "iconFavors_shockSplinter.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "EmergencyCertificate",
+    "DisplayName": "Emergency Certificate",
+    "Description": "Slightly increases the chances of being sent to Léry's Memorial Institute when burnt.\n\n-Stacks.\n\"A yellow carbon-copy certificate which admits a patient into immediate detention for emergency treatment. Copied information are smudged and unreadable.\"",
+    "IconName": "iconFavors_emergencyCertificate.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "PsychiatricAssessmentReport",
+    "DisplayName": "Psychiatric Assessment Report",
+    "Description": "Considerably increases the chances of being sent to Léry's Memorial Institute when burnt.\n\n-Stacks.\n\"A Psychiatric report signed by Herman Carter. It describes the memory deterioration of a patient and contains suggestions for next steps in the procedure.\"",
+    "IconName": "iconFavors_psychiatricAssessmentReport.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "ShatteredGlasses",
+    "DisplayName": "Shattered Glasses",
+    "Description": "Tremendously increases the chances of being sent to Léry's Memorial Institute when burnt.\n-Secret.\n-Does not stack.\n\"Bent reading glasses. Speckles of dried blood can be seen on the shattered lens.\"",
+    "IconName": "iconFavors_shatteredGlasses.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Anniversary2020Offering",
+    "DisplayName": "Ghastly Gateau",
+    "Description": "A spectacularly grim cake to mark our four years together. 1% tastier than a Gruesome Gateau. Grants 104% bonus Bloodpoints in all categories for all players this trial.\n\"Happy Anniversary! Here's to many more!\"\n- The Dead by Daylight Team",
+    "IconName": "iconFavors_4thAnniversary.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "QuicheThemeOffering",
+    "DisplayName": "VIP Wristband",
+    "Description": "Tremendously increases the chance to be sent to Trickster's Delusion when burned.\n-Secret.\n-Does not stack.\n\"Mightee One Entertainment invites you to witness the future of virtual entertainment.\" ",
+    "IconName": "T_UI_iconsFavors_vipWristband.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "QatarThemeOffering",
+    "DisplayName": "Hawkins National Laboratory I.D. ",
+    "Description": "Tremendously increases the chance to be sent to Hawkins National Laboratory when burnt.\n-Secret.\n-Does not stack.\n\"A soggy, bloodstained identification card with a serial number.\"",
+    "IconName": "iconFavors_hawkinsNationalLaboratoryID.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "WalesThemeOffering",
+    "DisplayName": "Mary’s Letter",
+    "Description": "Tremendously increases the chance to be sent to Midwich Elementary School when burnt.\n-Secret.\n-Does not stack.\n\"In my restless dreams, I see that town.\"",
+    "IconName": "iconFavors_marysLetter.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "IonThemeOffering",
+    "DisplayName": "Crow's Eye",
+    "Description": "Tremendously increases the chance to be sent to Forsaken Boneyard when burnt.\n-Secret.\n-Does not stack.\n\"The dark, beady eye shifts back and forth as if searching for a bloody strip of carrion.\"",
+    "IconName": "iconFavors_crowsEye.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "SmokingSplinter",
+    "DisplayName": "Smoking Splinter",
+    "Description": "Allows you to take on the role of The Nightmare for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n",
+    "IconName": "iconFavors_smokingSplinter.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "ThePiedPiper",
+    "DisplayName": "The Pied Piper",
+    "Description": "Tremendously increases the chances of being sent to Springwood when burnt.\n-Secret.\n-Does not stack.\n\"Betrayed by the town, he exacts his revenge by taking all their children.\"",
+    "IconName": "iconFavors_thePiedPiper.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "GlassSplinter",
+    "DisplayName": "Glass Splinter",
+    "Description": "Allows you to take on the role of The Pig for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"Amanda, do not be afraid. Your life has just begun.\"-Jigsaw",
+    "IconName": "iconFavors_glassSplinter.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "Jigsawpiece",
+    "DisplayName": "Jigsaw Piece",
+    "Description": "Tremendously increases the chances of being sent to Gideon Meat Plant when burnt.\n-Secret.\n-Does not stack.\n\"Congratulations. You are still alive. Most people are so ungrateful to be alive. But not you. Not anymore.\"",
+    "IconName": "iconFavors_jigsawPiece.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "WormholeThemeOffering",
+    "DisplayName": "Airlock Doors",
+    "Description": "Tremendously increases the chance to be sent to Nostromo Wreckage when burnt.\n-Secret.\n-Does not stack.\n\"You know the quarantine procedure. 24 hours for decontamination.\" -Ellen Ripley",
+    "IconName": "iconFavors_airlockDoors.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "UkraineThemeOffering",
+    "DisplayName": "Shattered Bottle",
+    "Description": "Tremendously increases the chance to be sent to Grave of Glenvale when burnt.\n-Secret.\n-Does not stack.\n\"Ain't much for holding a drink no more, but it can sure make a mess of a fella's throat.\"",
+    "IconName": "iconFavors_ShatteredBottle.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "EclipseThemeOffering",
+    "DisplayName": "RPD Badge",
+    "Description": "Tremendously increases the chance of being sent to Raccoon City police station when burnt.\n-Secret.\n-Does not stack.\n\"If we stay here that monster will find us.\"",
+    "IconName": "iconsFavors_RPDBadge.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "SacrificalWard",
+    "DisplayName": "Sacrificial Ward",
+    "Description": "Calls upon The Entity to reject all offerings that alter the chance of being sent to a specific realm.\nThis can only be canceled if four identical realm offerings are played.\n\"With blind eyes, we surrender our will and appeal to you for guidance.\"",
+    "IconName": "iconFavors_wardSacrificial.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "TornBlueprint",
+    "DisplayName": "Torn Blueprint",
+    "Description": "Reveals the aura of the basement hooks to you for 20 seconds at the start of the trial. Tremendously increases the chance of spawning the basement in the main building, if the map has a main building.\n-Secret.\n\"Though brittle and torn, the design is mostly legible.\"",
+    "IconName": "iconFavors_tornBlueprint.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "BloodiedBlueprint",
+    "DisplayName": "Bloodied Blueprint",
+    "Description": "Reveals the aura of the basement hooks to you for 20 seconds at the start of the trial. Tremendously increases the chance of spawning the basement in the Killer Shack, if the map has a Killer Shack.\n-Secret.\n\"Spatters of dried blood partially conceal the design.\"",
+    "IconName": "iconFavors_bloodiedBlueprint.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "VigosBlueprint",
+    "DisplayName": "Vigo’s Blueprint",
+    "Description": "Tremendously increases the chance of spawning the Hatch in the main building, if the map has a main building.\n-Secret.\n\"A clever design that has the letter V etched on the bottom.\"",
+    "IconName": "iconFavors_vigosBlueprint.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "AnnotatedBlueprint",
+    "DisplayName": "Annotated Blueprint",
+    "Description": "Tremendously increases the chance of spawning the Hatch in the Killer Shack, if the map has a Killer Shack.\n-Secret.\n\"Essential information is scribbled along the side, but by whom?\"",
+    "IconName": "iconFavors_annotatedBlueprint.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "QuantumThemeOffering",
+    "DisplayName": "Beef Tallow Mixture",
+    "Description": "Tremendously increases the chance to be sent to The Decimated Borgo when burnt.\n-Secret.\n-Does not stack.\n\"The stink of rotting organic matter emanates from this foul mixture, designed with the grim intent to create a fire that burns very hot and very long.\"",
+    "IconName": "iconFavors_BeefTallowMixture.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Halloween2021Offering",
+    "DisplayName": "Cursed Seed",
+    "Description": "Calls upon The Entity to generate 1 tangled hook and 1 tangled generator.\n-As a Killer, hook a Survivor on a tangled hook for the first time to earn bonus Bloodpoints.\n-As a Survivor, find and repair a tangled generator to earn bonus Bloodpoints.\n-Using this offering increases the amount of Bloodpoints earned for these interactions.\n-NOTE: During the event, 1 default tangled hook and 1 default tangled generator will spawn on the map.\n-Stacks.\n-Only playable during The Midnight Grove event.\"The seed crackles as if what's within is attempting to burst free.\"",
+    "IconName": "iconFavors_CursedSeed.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "BlackSplinter",
+    "DisplayName": "Black Splinter",
+    "Description": "Allows you to take on the role of The Shape for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"He came home!\" - Dr. Sam Loomis",
+    "IconName": "iconFavors_blackSplinter.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "StrodeRealtyKey",
+    "DisplayName": "Strode Realty Key",
+    "Description": "Tremendously increases the chances of being sent to Haddonfield when burnt.\n-Secret.\n-Does not stack.\n\"A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: '45 Lampkin Lane'.\"",
+    "IconName": "iconFavors_strodeRealtyKey.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "DecrepitClapboard",
+    "DisplayName": "Decrepit Clapboard",
+    "Description": "Considerably increases the chances of being sent to Haddonfield when burnt.\n\n-Stacks.\n\"A moldy and rotten beaded oak clapboard like the ones found on most houses of Haddonfield.\"",
+    "IconName": "iconFavors_decrepitClapboard.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "HarvestFestivalLeaflet",
+    "DisplayName": "Harvest Festival Leaflet",
+    "Description": "Slightly increases the chances of being sent to Haddonfield when burnt.\n\n-Stacks.\n\"A washed out informational leaflet for the '78 Haddonfield Harvest Festival. A large cartoon pumpkin is depicted on the front.\"",
+    "IconName": "iconFavors_harvestFestivalLeaflet.png",
+    "Rarity": 0
+  }
+]

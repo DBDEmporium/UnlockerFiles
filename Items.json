@@ -1,0 +1,436 @@
+[
+  {
+    "Id": "Item_Camper_Flashlight_Random",
+    "DisplayName": "Flashlight",
+    "Description": "A Flashlight that can cause a distraction or even rescue another Survivor.",
+    "IconName": "iconItems_flashlight.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_MedKit_Random",
+    "DisplayName": "Camping Aid Kit",
+    "Description": "A Medkit that can heal others faster or yourself.",
+    "IconName": "iconItems_rundownAidKit.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_Toolbox_Random",
+    "DisplayName": "Toolbox",
+    "Description": "A Toolbox that can repair faster or sabotage hooks.",
+    "IconName": "iconItems_toolbox.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_Key_Random",
+    "DisplayName": "Skeleton Key",
+    "Description": "A Key that can unlock the hatch.",
+    "IconName": "iconItems_key.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_Map_Random",
+    "DisplayName": "Cryptic Map",
+    "Description": "A Map that can reveal the aura of various objects.",
+    "IconName": "iconItems_map.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_FogVial_Random",
+    "DisplayName": "Fog Vial",
+    "Description": "The contents therein were never meant to be contained. Release to conceal oneself in a time in desperation.",
+    "IconName": "T_UI_iconItems_apprenticesFogVial.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "FireflyLantern",
+    "DisplayName": "Lantern",
+    "Description": "A light to shine the way, illuminating even the most palpable darkness.\n\nWhen held, reveal the Aura of Pallets, Vault locations, and the closest Generator. Place your Lantern atop a Generator to reveal its Aura to your teammates.",
+    "IconName": "iconItems_modifierLantern.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Survivor_CalamariContaminationAntidote",
+    "DisplayName": "Antidote",
+    "Description": "A potent formula that reverses the effects of both the T-Virus and Uroboros Infection. Limited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedStabilizingSpray.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_K32Emp",
+    "DisplayName": "EMP",
+    "Description": "Removes Slipstream and disable all Bio-Pods for 45s in a short radius. \n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedEMP.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_ContaminationSerum",
+    "DisplayName": "Vaccine",
+    "Description": "A vaccine effective against contamination from the T-Virus.\n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedItemVaccine.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_K29InfectionRemover",
+    "DisplayName": "First Aid Spray",
+    "Description": "A medication that helps reverse the effects of Uroboros infection.\n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedStabilizingSpray.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_K33Turret",
+    "DisplayName": "Remote Flame Turret",
+    "Description": "Shoots at The Xenomorph within 10m. Beeps as The Xenomorph gets within 41m.\n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedTurret.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_OnryoTape",
+    "DisplayName": "Tape",
+    "Description": "Putting the tape in the highlighted TV, turns it off and reduces your Condemned progression.\n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedVhsTape.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Survivor_K41Mushroom",
+    "DisplayName": "Glowing Fungus",
+    "Description": "A mushroom that decreases Leeched over time.",
+    "IconName": "T_UI_iconItems_LimitedMushroom.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "Item_Camper_K36MagicItem_Bracers",
+    "DisplayName": "@#K36_MagicItem_Bracers_NAME",
+    "Description": "",
+    "IconName": "T_UI_hud_umg_survivorMagicItems_Bracers.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Camper_K36MagicItem_Boots",
+    "DisplayName": "Boots of {0}",
+    "Description": "",
+    "IconName": "T_UI_hud_umg_survivorMagicItems_Boots.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Camper_K36MagicItem_VecnaEye",
+    "DisplayName": "Eye Of Vecna",
+    "Description": "When doing a Fast Locker Exit, you cannot be seen by The Lich and gains Haste for the duration of the effect.\n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedVecnaEye.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "Item_Camper_K36MagicItem_VecnaHand",
+    "DisplayName": "Hand Of Vecna",
+    "Description": "When doing a Fast Locker Entry, the Survivor is teleported to a further locker.\n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedVecnaHand.png",
+    "Rarity": 4
+  },
+  {
+    "Id": "Item_Camper_AlexsToolbox",
+    "DisplayName": "Alex's Toolbox",
+    "Description": "A metal box containing mainly saws and vice grips of varying sizes but also other tools. Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well.\n\n-18 charges.\n-Increases repair speed by 10%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 100%.\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.\n\n\"Most of the tools are identified as 'owned by Alex'.\"",
+    "IconName": "iconItems_toolboxAlexs.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "Item_Camper_CommodiousToolbox",
+    "DisplayName": "Commodious Toolbox",
+    "Description": "A large metal box containing basic tools and extra mechanical parts. Even without training, can be used to repair or break various mechanical components.\n\n-32 charges.\n-Increases repair speed by 50%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 50%.\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.",
+    "IconName": "iconItems_toolboxCommodious.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Camper_EngineerToolbox",
+    "DisplayName": "Engineer's Toolbox",
+    "Description": "Metal box with highly specialized tools meant for engineering. Most of the tools can still be used by neophytes to make fast repairs or break various mechanical components.\n\n-16 charges.\n-Increases repair speed by 100%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 10%.\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.\n\n\"I've created tools beyond compare and stood paralyzed as they were stolen from me. These are but a poor replica, spat out by The Fog.\" -Vigo's Journal",
+    "IconName": "iconItems_toolboxEngineers.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "Item_Camper_Flashlight",
+    "DisplayName": "Flashlight",
+    "Description": "A standard Flashlight. Can be used to light your way in the darkness.\n\n-8 seconds of use.\n\"Most of the battery life was wastefully used by the previous owner.\"",
+    "IconName": "iconItems_flashlight.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "Item_Camper_Flashlight02",
+    "DisplayName": "Sport Flashlight",
+    "Description": "A very portable Flashlight with a good grip. Its efficient technology produces a powerful light while consuming less power.\n\n-8 Seconds of use.\n-Decreases Flashlight battery consumption by 11%.\n-Increases the accuracy of the Flashlight beam by 20%.",
+    "IconName": "iconItems_flashlightSport.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Camper_Flashlight03",
+    "DisplayName": "Utility Flashlight",
+    "Description": "A sturdy but heavy Flashlight that packs a lot of power.\n\n-12 Seconds of use.\n-Increases the brightness of the Flashlight beam by 30%.\n-Increases Blindness duration by 15%.\n-Decreases the accuracy of the Flashlight beam by 20%.",
+    "IconName": "iconItems_flashlightUtility.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "Item_Camper_MechanicsToolbox",
+    "DisplayName": "Mechanic's Toolbox",
+    "Description": "Metal box with specialized mechanics tools. Even without training, can be used to repair or break various mechanical components.\n\n-16 charges.\n-Increases repair speed by 75%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 25%.\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.\n",
+    "IconName": "iconItems_toolboxMechanics.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Camper_MedKit",
+    "DisplayName": "Camping Aid Kit",
+    "Description": "A rudimentary aid kit which can save lives in emergencies, even if it's lacking some of its supplies.\n\n-24 charges.\n-Increases the speed that you heal others by 35%.\n-Unlocks the self-healing action.\n-Decreases the speed and efficiency when healing yourself by 33%.\nA full heal requires 16 charges.\n\n\"Barely has enough material for a decent patch-up.\"",
+    "IconName": "iconItems_rundownAidKit.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_MedKit02",
+    "DisplayName": "First Aid Kit",
+    "Description": "A standard first aid kit with all the necessary equipment for treating common to more serious injuries.\n\n-24 charges.\n-Increases the speed that you heal others by 40%.\n-Unlocks the self-healing action.\n-Decreases the speed and efficiency when healing yourself by 33%.\nA full heal requires 16 charges.",
+    "IconName": "iconItems_firstAidKit.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "Item_Camper_MedKit03",
+    "DisplayName": "Emergency Med-kit",
+    "Description": "A sturdy and well organized medical kit equipped with top condition emergency supplies.\n\n-24 charges.\n-Increases the speed that you heal others by 45%.\n-Unlocks the self-healing action.\n-Decreases the speed and efficiency when healing yourself by 33%.\nA full heal requires 16 charges.\n\n\"There is a cure for almost everything... but not for this.\"",
+    "IconName": "iconItems_medkit.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Camper_MedKit04",
+    "DisplayName": "Ranger Med-kit",
+    "Description": "A large metal box containing medical supplies aimed for emergency rescues in hard to reach, often isolated locations.\n\n-24 charges.\n-Increases the speed that you heal others by 50%.\n-Unlocks the self-healing action.\n-Decreases the speed and efficiency when healing yourself by 33%.\nA full heal requires 16 charges.\n\n\"A small engraved label can be found glued to the back panel: VK.ID-3994723.\"",
+    "IconName": "iconItems_rangersAidKit.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "Item_Camper_Toolbox",
+    "DisplayName": "Toolbox",
+    "Description": "Metal box containing a set of basic tools. Even without training, can be used to repair or break various mechanical components.\n\n-20 charges.\n-Increases repair speed by 50%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 15%.\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.\n\n\"It is unclear as to where these tools come from. Were they brought in by one of us or did they belong to one of the monsters?\"",
+    "IconName": "iconItems_toolbox.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "Item_Camper_WornoutToolbox",
+    "DisplayName": "Worn-out Tools",
+    "Description": "Metal box containing out of condition tools that could break at any moment. Even without training, can be used to repair or break various mechanical components.\n\n-16 charges.\n-Increases repair speed by 50%.\n-Decreases Skill Check success zone size by 10%.\n-Unlocks the sabotage action.\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.\n\n\"You call these tools?... Really?\"",
+    "IconName": "iconItems_toolboxWornOut.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_RainbowMap",
+    "DisplayName": "Annotated Map",
+    "Description": "The sketch is clear and detailed. Strange knowledge flows into you, followed by dread uncertainty.\n\n-Press the Use Item Button to reveal auras of all pallets and vaults within 40 meters for 14 seconds.\n-Using the secondary interaction creates a beam of light at the Survivor's location. Generators within 32 meters of the beam of light have their auras revealed.\n-6 charges.",
+    "IconName": "iconItems_rainbowMap.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Camper_BrokenKey",
+    "DisplayName": "Broken Key",
+    "Description": "The bow and shank of a key, vibrating with power.\nConsume a charge to:\n\n-Reveal auras of Survivors within 48 meters for 8 seconds by holding the Use Item Button.\nBegins with 6 charges.",
+    "IconName": "iconItems_brokenKey.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_DullKey",
+    "DisplayName": "Dull Key",
+    "Description": "A bent and dull Key that once held great power.\nConsume a charge to:\n\n-Reveal auras of Survivors within 56 meters for 9 seconds by holding the Use Item Button.\n-Unlock Chests quickly. Chests unlocked with this Key have a revealed aura within 42 meters, enabling another Survivor to rummage once, and will contain items of at least Rare quality.\n-Unlock the Hatch.\nBegins with 5 charges.",
+    "IconName": "iconItems_dullKey.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "Item_Camper_FadedMap",
+    "DisplayName": "Cryptic Map",
+    "Description": "Looking at it, the directions make no sense. But merely holding it grants you an uncanny intuition.\n\n-Press the Use Item Button to reveal auras of all pallets and vaults within 24 meters for 10 seconds.\n-Using the secondary interaction creates a beam of light at the Survivor's location. Generators within 32 meters of the beam of light have their auras revealed.\n-4 charges.",
+    "IconName": "T_UI_iconItems_CrypticMap.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Survivor_MakeshiftFogVial",
+    "DisplayName": "Apprentice's Fog Vial",
+    "Description": "Made by the hands of a diligent but timid novice.\n\n-Releases concentrated Fog.\n-Fog Cloud lasts for 8 seconds\n-Fog Cloud expands to a maximum of 8 meters.\n-While inside a Fog Cloud, auras are suppressed, and Survivors leave no scratch marks and make no sound.\n-Has 4 charges.\n-Recharges over 70 seconds.",
+    "IconName": "T_UI_iconItems_apprenticesFogVial.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Survivor_PrototypeFogVial",
+    "DisplayName": "Artisan's Fog Vial",
+    "Description": "Crafted by an experienced glazier with a love for her craft.\n-Releases concentrated Fog.\n-Fog Cloud lasts for 10 seconds\n-Fog Cloud expands to a maximum of 8 meters.\n-While inside a Fog Cloud, auras are suppressed, and Survivors leave no scratch marks and make no sound.\n-Has 4 charges.\n-Recharges over 65 seconds.",
+    "IconName": "T_UI_iconItems_artisansFogVial.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "Item_Camper_BeigeMap",
+    "DisplayName": "Scribbled Map",
+    "Description": "Peering at the parchment, a path appears in your mind. Moments later, you feel lost again.\n\n-Press the Use Item Button to reveal auras of all pallets and vaults within 32 meters for 12 seconds.\n-Using the secondary interaction creates a beam of light at the Survivor's location. Generators within 32 meters of the beam of light have their auras revealed.\n-5 charges.",
+    "IconName": "iconItems_map.png",
+    "Rarity": 1
+  },
+  {
+    "Id": "Item_Camper_Key",
+    "DisplayName": "Skeleton Key",
+    "Description": "A tarnished and crooked key, vibrating with ominous power.\nConsume a charge to:\n\n-Reveal auras of Survivors within 64 meters for 10 seconds by holding the Use Item Button.\n-Unlock Chests quickly. Chests unlocked with this Key have a revealed aura within 42 meters, enabling another Survivor to rummage once, and will contain items of at least Rare quality.\n-Unlock the Hatch.\nBegins with 6 charges.",
+    "IconName": "iconItems_key.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Survivor_VigosFogVial",
+    "DisplayName": "Vigo's Fog Vial",
+    "Description": "From the man’s own collection. Impeccable. Unparalleled.\n-Releases concentrated Fog.\n-Fog Cloud lasts for 12 seconds\n-Fog Cloud expands to a maximum of 8 meters.\n-While inside a Fog Cloud, auras are suppressed, and Survivors leave no scratch marks and make no sound.\n-Has 4 charges.\n-Recharges over 60 seconds.",
+    "IconName": "T_UI_iconItems_vigosFogVial.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Item_Camper_Flashlight_Anniversary2022",
+    "DisplayName": "Masquerade Flashlight",
+    "Description": "Not even a mask can protect you from this Flashlight's bright beam.\n\n-8 Seconds of use.\n-Increases confetti by 100%.\n\"Happy Anniversary! The future looks bright!\" \n- The Dead by Daylight Team",
+    "IconName": "iconItems_flashlight_anniversary2022.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Medkit_Anniversary2022",
+    "DisplayName": "Masquerade Med-Kit",
+    "Description": "A festive Med-Kit with a shocking surprise, giving a whole new meaning to the term \"health scare.\"\n\n-24 charges.\n-Increases the speed that you heal others by 40%.\n-Unlocks the self-healing action.\n-Decreases the speed and efficiency when healing yourself by 33%.\n-Increases confetti by 100%.\nA full heal requires 16 charges.\n\n\"Happy Anniversary! To your health!\" \n- The Dead by Daylight Team",
+    "IconName": "iconItems_medkit_anniversary2022.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Toolbox_Anniversary2022",
+    "DisplayName": "Masquerade Toolbox",
+    "Description": "A Toolbox with all of the standard gadgets: wrenches, screwdrivers, fireworks, a hammer...\n\n-32 charges.\n-Increases repair speed by 50%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 50%.\n-Detonates a firework once depleted. Yay!\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.\n\n\"Happy Anniversary! We're fixin' to have a big party!\" \n- The Dead by Daylight Team",
+    "IconName": "iconItems_toolbox_anniversary2022.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_VoidBomb_Halloween2024",
+    "DisplayName": "Void Crystal",
+    "Description": "Cold to the touch, the crystal vibrates from the force contained within.\n-1 charge.\n\n-When shattered, the Void Crystal releases thick smoke with an expanding radius of up to 4 meters.\n-Survivors within 6 meters of the smoke do not leave scratch marks.\n-The smoke dissipates 8 seconds after reaching it maximum size.",
+    "IconName": "iconItems_voidCrystal.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Map_Spring2024",
+    "DisplayName": "Bloodsense Map",
+    "Description": "A bloodstained piece of parchment, hastily rolled and burning with a strange power.\n\n-Press the Use Item Button to reveal auras of all pallets, vaults and injured Survivors within 48 meters for 14 seconds.\n-Using the secondary interaction creates a beam of light at the Survivor's location. Generators within 32 meters of the beam of light have their auras revealed.\n-Causes pools of blood to spawn beneath you while being used.\n-8 charges.",
+    "IconName": "iconItems_bloodMap.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_LunarToolbox",
+    "DisplayName": "Festive Toolbox",
+    "Description": "A Toolbox packed to the brim with fireworks, it's prepared to celebrate all your life’s successes... and failures.\n\n-32 charges.\n-Increases repair speed by 50%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 50%.\n-Great Skill Checks detonate a small cluster of firecrackers.\n-Failed Skill Checks detonate fireworks.\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.",
+    "IconName": "iconItems_toolboxLunar.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Firecracker_Chinese",
+    "DisplayName": "Chinese Firecracker",
+    "Description": "A row of small explosive devices wrapped in heavy paper casing. Detonates into loud bangs and intense light flashes. Can be used as a distraction, as a blinding device or to celebrate.\n\n-1 charge.",
+    "IconName": "iconItems_chineseFirecracker.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Firecracker_WinterEvent",
+    "DisplayName": "Winter Party Starter",
+    "Description": "A small, highly-explosive dinner table decoration. Detonates into loud bangs and intense light flashes. Can be used as a distraction, as a blinding device or to celebrate.\n\n-1 charge.",
+    "IconName": "iconItems_winterEventFirecracker.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_JerryCan_Spring2025",
+    "DisplayName": "Blood Can",
+    "Description": "The handle is slick, and blood wells between your fingers as you tighten your grip.Found when interacting with the Blood Pump. Required to carry the blood needed to repair Blood Generators.\n\n-Carry capacity of 40 liters.\n-Produces a pool of blood when running.\n-Generates distinct noises while being carried.\n-\n-Noises vary depending on movement speed and number of liters being carried.\n-Blood leaks from the Blood Can when running or if it is left on the ground.\n-Killers can stomp the Blood Can while on the ground, spilling more blood.\n-Vanishes from the trial when empty.",
+    "IconName": "T_UI_iconItems_LimitedJerryCan.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Flashlight_Anniversary2026",
+    "DisplayName": "Banquet Flashlight",
+    "Description": "It’s time to burn calories...and retinas. \n-8 seconds of use.\n\n\"We’re blinded with happiness from all of your support!\" -The Dead by Daylight Team ",
+    "IconName": "T_UI_iconItems_flashlight_anniversary2026.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Medkit_Anniversary2026",
+    "DisplayName": "Banquet Med-Kit",
+    "Description": "Does it heal indigestion? There’s only one way to find out.\n\n\n-24 charges.\n-Increases the speed that you heal others by 40%.\n-Unlocks the self-healing action.\n-Decreases the speed and efficiency when healing yourself by 33%.\nA full heal requires 16 charges.\n\"Here’s to health!\" --The Dead by Daylight Team",
+    "IconName": "T_UI_iconItems_medkit_anniversary2026.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Toolbox_Anniversary2026",
+    "DisplayName": "Banquet Toolbox",
+    "Description": "Nothing settles the stomach like manual labor.\n\n\n-32 charges.\n-Increases repair speed by 50%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 50%\n\n\"Hard to believe it’s been 10 years. Thanks for keeping the Exit Gate lights on!\" -The Dead by Daylight Team",
+    "IconName": "T_UI_iconItems_toolbox_anniversary2026.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_FragileObject",
+    "DisplayName": "Pocket Mirror",
+    "Description": "A pocket mirror pulled from the basement's White Glyph. Its surface is frosty.\n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_LimitedRepairedMirror.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_Flashlight04",
+    "DisplayName": "Will O' Wisp",
+    "Description": "A Flashlight equipped with a special lens cover that adds an orange tint and a little ghost to the beam. \n\n-8 Seconds of use. \n-Considerably increases Friendly Ghosts in your life.\n\"Happy Trick or Treating!\"",
+    "IconName": "iconItems_flashlightHalloween.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Medkit05",
+    "DisplayName": "All Hallows' Eve Lunchbox",
+    "Description": "A plastic lunchbox with phosphorescent Halloween stickers that has been packed with first-aid equipment.\n\n-24 charges.\n-Increases the speed that you heal others by 40%.\n-Unlocks the self-healing action.\n-Decreases the speed and efficiency when healing yourself by 33%.\n-Makes you considerably more visible.\nA full heal requires 16 charges.\n\n\"Safety first! Make sure you can be seen when trick or treating.\"",
+    "IconName": "iconItems_medkitHalloween.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_AnniversaryToolbox",
+    "DisplayName": "Anniversary Toolbox",
+    "Description": "A toolbox that’s slightly explosive.\n\n-32 charges.\n-Increases repair speed by 50%.\n-Unlocks the sabotage action.\n-Increases sabotage speed by 50%.\n-Detonates a firework once depleted. Yay!\nRepairing a generator requires 90 charges.\nSabotaging a hook requires 6 charges.\n\n\"Nothing says happy anniversary like detonating a firework and praying the Killer doesn’t notice. Good luck and thank you for celebrating with us!\" -The Dead by Daylight Team",
+    "IconName": "iconItems_toolbox_anniversary2021.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Flashlight_Anniversary2020",
+    "DisplayName": "Anniversary Flashlight",
+    "Description": "A festive Flashlight that explodes with confetti upon blinding a Killer. Surprise!\n\n-8 Seconds of use.\n\"Happy Anniversary! Here's to many more!\"\n- The Dead by Daylight Team",
+    "IconName": "iconItems_flashlight_anniversary2020.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Camper_Medkit_Anniversary2020",
+    "DisplayName": "Anniversary Med-kit",
+    "Description": "A festive Med-kit that explodes with confetti upon fully healing a Survivor. Surprise!\n\n-24 charges.\n-Increases the speed that you heal others by 40%.\n-Unlocks the self-healing action.\n-Decreases the speed and efficiency when healing yourself by 33%.\n-Increases confetti by 100%.\nA full heal requires 16 charges.\n\n\"Happy Anniversary! Here's to many more!\"\n- The Dead by Daylight Team",
+    "IconName": "iconItems_medkit_anniversary2020.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Item_Blighted_Serum",
+    "DisplayName": "",
+    "Description": "",
+    "IconName": "Missing.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_Firecracker_Anniversary2019",
+    "DisplayName": "Third Year Party Starter",
+    "Description": "A small, highly-explosive dinner table decoration. Detonates into loud bangs, intense light flashes, and playful confetti. Can be used as a distraction, as a blinding device or to celebrate our three years together.\n\n-1 charge.\n\"Happy Anniversary! Here's to our three years together!\"\n- The Dead by Daylight Team",
+    "IconName": "iconItems_partyPopper.png",
+    "Rarity": 5
+  },
+  {
+    "Id": "Father_Key_Card",
+    "DisplayName": "Keycard",
+    "Description": "A keycard that may fit in a Nostromo terminal.",
+    "IconName": "iconItems_Keycard.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Item_Camper_Firecracker_Flashbang",
+    "DisplayName": "Flash Grenade",
+    "Description": "A hand grenade that creates a large flash of light and a loud sound on detonation.\n\nLimited items are consumed by The Entity at the trial's end.",
+    "IconName": "iconItems_flashbangGrenade.png",
+    "Rarity": 0
+  }
+]
