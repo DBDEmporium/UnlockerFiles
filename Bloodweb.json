@@ -5087,7 +5087,7 @@
       "itemId": "S39P03",
       "quantity": 3
     },
-        {
+    {
       "itemId": "S40P01",
       "quantity": 3
     },
@@ -5363,7 +5363,7 @@
       "itemId": "S52P03",
       "quantity": 3
     },
-        {
+    {
       "itemId": "S53P01",
       "quantity": 3
     },
@@ -5373,6 +5373,18 @@
     },
     {
       "itemId": "S53P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "S54P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "S54P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "S54P03",
       "quantity": 3
     },
     {
@@ -5808,6 +5820,18 @@
       "quantity": 3
     },
     {
+      "itemId": "K44P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "K44P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "K44P03",
+      "quantity": 3
+    },
+    {
       "itemId": "Addon_K43_01",
       "quantity": 1
     },
@@ -5888,6 +5912,86 @@
       "quantity": 1
     },
     {
+      "itemId": "Addon_K44_01",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_02",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_03",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_04",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_05",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_06",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_07",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_08",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_09",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_10",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_11",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_12",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_13",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_14",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_15",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_16",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_17",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_18",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_19",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K44_20",
+      "quantity": 1
+    },
+    {
       "itemId": "Anniversary2026Offering",
       "quantity": 1
     },
@@ -5902,9 +6006,7 @@
     {
       "itemId": "Item_Camper_Toolbox_Anniversary2026",
       "quantity": 1
-    },
-    
-    
+    }
   ],
   "legacyPrestigeLevel": 3
 }
