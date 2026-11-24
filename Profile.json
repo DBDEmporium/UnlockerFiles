@@ -914,6 +914,17 @@
       "prestigeLevel": 100
     },
     {
+      "characterName": "S55",
+      "legacyPrestigeLevel": 3,
+      "characterItems": [],
+      "bloodWebLevel": 51,
+      "bloodWebData": {
+        "paths": [],
+        "ringData": []
+      },
+      "prestigeLevel": 100
+    },
+    {
       "characterName": "K30",
       "legacyPrestigeLevel": 3,
       "characterItems": [],
@@ -1069,6 +1080,17 @@
     },
     {
       "characterName": "K44",
+      "legacyPrestigeLevel": 3,
+      "characterItems": [],
+      "bloodWebLevel": 51,
+      "bloodWebData": {
+        "paths": [],
+        "ringData": []
+      },
+      "prestigeLevel": 100
+    },
+    {
+      "characterName": "K45",
       "legacyPrestigeLevel": 3,
       "characterItems": [],
       "bloodWebLevel": 51,
