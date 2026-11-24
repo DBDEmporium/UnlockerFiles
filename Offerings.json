@@ -1,10 +1,10 @@
 [
   {
-    "Id": "BoneSplinter",
-    "DisplayName": "Bone Splinter",
-    "Description": "Allows you to take on the role of The Cannibal for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"You like this face? \" -Hitchhiker",
-    "IconName": "iconFavors_boneSplinter.png",
-    "Rarity": 4
+    "Id": "WaffleThemeOffering",
+    "DisplayName": "Hartshorne Rewards Tote",
+    "Description": "Tremendously increases the chance to be sent to Hartshorne Mall when burned.\n-Secret.\n-Does not stack.\n\"I must have spent hundreds there. I don't remember getting a single reward.\" ",
+    "IconName": "T_UI_iconsFavors_HartshorneRewardsTote.png",
+    "Rarity": 2
   },
   {
     "Id": "ArdentRavenWreath",
@@ -172,7 +172,7 @@
     "DisplayName": "Ebony Memento Mori",
     "Description": "Grants the ability to kill all Survivors who have reached the second Hook State by your hand during the next trial.\n-Secret.\n\"I could swear It spoke to the beast. It came to a halt, as if calmly listening to the leaves rustling, and then... grinned.\"",
     "IconName": "iconFavors_momentoMoriEbony.png",
-    "Rarity": 4
+    "Rarity": 6
   },
   {
     "Id": "FaintReagent",
@@ -319,7 +319,7 @@
     "DisplayName": "New Moon Bouquet",
     "Description": "Calls upon The Entity for the darkest moonlight.\n\"Better go back to sleep, there is no moon this night.\"",
     "IconName": "iconFavors_newMoonBouquet.png",
-    "Rarity": 4
+    "Rarity": 6
   },
   {
     "Id": "PElliotLunacyTicket",
@@ -501,7 +501,7 @@
     "DisplayName": "Muddy Splinter",
     "Description": "Allows you to take on the role of The Hag for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"Avoid walking in the mud or The Hag will eat your bones.\"",
     "IconName": "iconFavors_muddySplinter.png",
-    "Rarity": 4
+    "Rarity": 6
   },
   {
     "Id": "FumingCordage",
@@ -550,84 +550,77 @@
     "DisplayName": "Gruesome Gateau",
     "Description": "A terrific stomach-churning cake to mark our three years together. Grants 103% bonus Bloodpoints in all categories for all players this trial.\n\"Happy Anniversary! Here's to our three years together!\"\n- The Dead by Daylight Team",
     "IconName": "iconFavors_gruesomeGateau.png",
-    "Rarity": 5
+    "Rarity": 0
   },
   {
     "Id": "Anniversary2022Offering",
     "DisplayName": "Frightful Flan",
     "Description": "It may be a masquerade ball, but there is no masking the foul odor of this quivering yellow mass.\nConsuming it, however, fills you with vigor.\n\nGrants 106% bonus Bloodpoints in all categories for all players this trial.\n\"Happy Anniversary! We made you this cake/pie/pudding/unspeakable horror.\" \n- The Dead by Daylight Team",
     "IconName": "iconsFavors_6thAnniversary.png",
-    "Rarity": 5
-  },
-  {
-    "Id": "Anniversary2025Offering",
-    "DisplayName": "Coconut Scream Pie",
-    "Description": "A metallic taste overpowers the coconut.\n-Grants 109% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of Invitation Pillars within 16 meters.\n\"The secret ingredient is love... wait, no, that's blood. Happy anniversary!\" \n- The Dead by Daylight Team",
-    "IconName": "T_UI_iconsFavors_9thAnniversary.png",
-    "Rarity": 5
-  },
-  {
-    "Id": "SummerOffering",
-    "DisplayName": "BBQ Invitation",
-    "Description": "Has the distinct aroma of burning flesh.\n\n-Grants a 100% Bloodpoints bonus to Summer hooks and finished Summer generator repairs.\n\"Kick back and relax in the moonlight with an ice cold drink and some barbecued meats. The Entity has invited you to enjoy yourself this fine evening.\"",
-    "IconName": "iconFavors_bbqInvitation.png",
-    "Rarity": 5
-  },
-  {
-    "Id": "Spring2024Offering",
-    "DisplayName": "Bloodshot Eye",
-    "Description": "An eye filled with, and capable of finding, strange blood.\n\n-Personal.\n-Provides a +100% Bloodpoints bonus to all Blood Moon score events.\n-Only usable when playing Event: Blood Moon.",
-    "IconName": "iconFavors_bloodshotEye.png",
-    "Rarity": 5
+    "Rarity": 0
   },
   {
     "Id": "RedMoney",
     "DisplayName": "Red Envelope",
     "Description": "A gesture of generosity to bring good fortune to the unfortunate. Calls upon The Entity to generate 1 Red Envelope in the trial.\n\n-The aura of your own envelope is revealed to you at the start of the trial.\n-Interacting with your own Red Envelope reveals its aura to all other players in the trial until claimed.\n-Opening another player's Red Envelope awards you with Bloodpoints of a random amount.\n-When another player opens your envelope during the trial, you are awarded Bloodpoints and a cosmetic from the Moonlight Burrow collection.\n-Increased Bloodpoints awarded from Lunar New Year Generators and Hooks.",
     "IconName": "iconFavors_redMoneyPacket.png",
-    "Rarity": 5
-  },
-  {
-    "Id": "Winter2024Offering",
-    "DisplayName": "MISTLE TOES",
-    "Description": "If you see these things hanging over you, the last thing you'll want is a kiss.\n-Personal.\n-Start the trial carrying 12 Snowskulls.\n-Decreases number of Snowskulls required to charge an Icy Snowskull by 1.\n-Provides a +100% Bloodpoints bonus to all Bone Chill score events.\n-Create 1 more chest.\n-Only usable when playing Event: Bone Chill.",
-    "IconName": "iconsFavors_Winter.png",
-    "Rarity": 5
-  },
-  {
-    "Id": "Anniversary2024Offering",
-    "DisplayName": "SCREECH COBBLER",
-    "Description": "If you listen really closely, you can almost hear it screaming for more ice cream. \n\n\n-Grants 108% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of Invitation within 16 meters.\n-Create 1 more chest.\n\"Happy anniversary! Hope this comfort food isn't too... discomforting.\" \n- The Dead by Daylight Team",
-    "IconName": "iconsFavors_8thAnniversary.png",
-    "Rarity": 5
-  },
-  {
-    "Id": "Halloween2022Offering",
-    "DisplayName": "Arcane Dowsing Rod",
-    "Description": "Taps into the latent energy of The Entity's realm to find even more concentrated pockets of power.\n-Personal.\n-Provides a +100% Bloodpoints bonus to all Haunted By Daylight score events.\n-Only usable when playing Event: Haunted by Daylight.",
-    "IconName": "iconFavors_ArcaneDowsingRod.png",
-    "Rarity": 5
+    "Rarity": 0
   },
   {
     "Id": "Anniversary2023Offering",
     "DisplayName": "TERRORMISU",
     "Description": "A celebratory dessert to be eaten during the masquerade. Each layer is more horrifying than the last.\n\n\n-Grants 107% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of an Invitation within 32 meter(s).\n\"Thanks for celebrating our anniversary! Don't ask why it's so spongy.\" \n- The Dead by Daylight Team",
     "IconName": "iconsFavors_7thAnniversary.png",
-    "Rarity": 5
+    "Rarity": 0
+  },
+  {
+    "Id": "Anniversary2024Offering",
+    "DisplayName": "SCREECH COBBLER",
+    "Description": "If you listen really closely, you can almost hear it screaming for more ice cream. \n\n\n-Grants 108% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of Invitation within 16 meters.\n-Create 1 more chest.\n\"Happy anniversary! Hope this comfort food isn't too... discomforting.\" \n- The Dead by Daylight Team",
+    "IconName": "iconsFavors_8thAnniversary.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Spring2024Offering",
+    "DisplayName": "Bloodshot Eye",
+    "Description": "An eye filled with, and capable of finding, strange blood.\n\n-Personal.\n-Provides a +100% Bloodpoints bonus to all Blood Moon score events.\n-Only usable when playing Event: Blood Moon.",
+    "IconName": "iconFavors_bloodshotEye.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "Halloween2022Offering",
+    "DisplayName": "Arcane Dowsing Rod",
+    "Description": "Taps into the latent energy of The Entity's realm to find even more concentrated pockets of power.\n-Personal.\n-Provides a +100% Bloodpoints bonus to all Haunted By Daylight score events.\n-Only usable when playing Event: Haunted by Daylight.",
+    "IconName": "iconFavors_ArcaneDowsingRod.png",
+    "Rarity": 3
+  },
+  {
+    "Id": "Winter2024Offering",
+    "DisplayName": "MISTLE TOES",
+    "Description": "If you see these things hanging over you, the last thing you'll want is a kiss.\n-Personal.\n-Start the trial carrying 12 Snowskulls.\n-Decreases number of Snowskulls required to charge an Icy Snowskull by 1.\n-Provides a +100% Bloodpoints bonus to all Bone Chill score events.\n-Create 1 more chest.\n-Only usable when playing Event: Bone Chill.",
+    "IconName": "iconsFavors_Winter.png",
+    "Rarity": 3
   },
   {
     "Id": "Anniversary2026Offering",
     "DisplayName": "Toothy Torte",
     "Description": "Puts the icing in sacrificing.\n-Grants 110% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of Tables within 16 meters.\n-Survivors start the Trial with a Morsel in hand, and Killers start with maximum Poison charges.\n\"Chew fast, or it'll chew you right back. Thanks for celebrating with us!\" -- The Dead by Daylight Team",
     "IconName": "T_UI_iconsFavors_10thAnniversary.png",
-    "Rarity": 5
+    "Rarity": 0
   },
   {
-    "Id": "HalloweenOffering",
-    "DisplayName": "Pustula Petals",
-    "Description": "Calls upon The Entity to generate 1 Blighted Hook and 1 Blighted Generator.\n-As a Killer, hook a Survivor on a Blighted Hook for the first time to earn bonus Bloodpoints.\n-As a Survivor, find and repair a Blighted Generator to earn bonus Bloodpoints.\n-Using this offering increases the amount of Bloodpoints earned for these interactions.\n-NOTE: During the event, 1 default Blighted Hook and 1 default Blighted Generator will spawn in the map.\n-Stacks.\n-Only playable during the Midnight Grove Event.\"The pustulas fill the air with a rancid odor that some may find enticing.\"",
-    "IconName": "iconFavors_pustulaPetals.png",
-    "Rarity": 5
+    "Id": "SummerOffering",
+    "DisplayName": "BBQ Invitation",
+    "Description": "Has the distinct aroma of burning flesh.\n\n-Grants a 100% Bloodpoints bonus to Summer hooks and finished Summer generator repairs.\n\"Kick back and relax in the moonlight with an ice cold drink and some barbecued meats. The Entity has invited you to enjoy yourself this fine evening.\"",
+    "IconName": "iconFavors_bbqInvitation.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "Anniversary2025Offering",
+    "DisplayName": "Coconut Scream Pie",
+    "Description": "A metallic taste overpowers the coconut.\n-Grants 109% bonus Bloodpoints in all categories for all players this trial.\n-Reveals the aura of Invitation Pillars within 16 meters.\n\"The secret ingredient is love... wait, no, that's blood. Happy anniversary!\" \n- The Dead by Daylight Team",
+    "IconName": "T_UI_iconsFavors_9thAnniversary.png",
+    "Rarity": 0
   },
   {
     "Id": "PaintedRiverRock",
@@ -651,46 +644,39 @@
     "Rarity": 2
   },
   {
-    "Id": "MeteorThemeOffering",
-    "DisplayName": "Ichorous Loam",
-    "Description": "Tremendously increases the chance to be sent to Withered Isle when burnt.\n-Secret.\n-Does not stack.\n\"Expel malthought from your mind, from your heart, from your mouth to prevent the darkness from corrupting your truth. For to let darkness find seed in your soul is to invite the Druanee.\"",
-    "IconName": "iconFavors_IchorousLoam.png",
+    "Id": "BlackSplinter",
+    "DisplayName": "Black Splinter",
+    "Description": "Allows you to take on the role of The Shape for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"He came home!\" - Dr. Sam Loomis",
+    "IconName": "iconFavors_blackSplinter.png",
+    "Rarity": 6
+  },
+  {
+    "Id": "StrodeRealtyKey",
+    "DisplayName": "Strode Realty Key",
+    "Description": "Tremendously increases the chances of being sent to Haddonfield when burnt.\n-Secret.\n-Does not stack.\n\"A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: '45 Lampkin Lane'.\"",
+    "IconName": "iconFavors_strodeRealtyKey.png",
     "Rarity": 2
   },
   {
-    "Id": "UmbraThemeOffering",
-    "DisplayName": "Alien Flora",
-    "Description": "Tremendously increases the chance to be sent to Toba Landing when burnt.\n-Secret.\n-Does not stack.\n\"Our arrival will change the face of this planet as we know it.\" -Sarah, Science Officer",
-    "IconName": "iconFavors_alienFlora.png",
-    "Rarity": 2
+    "Id": "DecrepitClapboard",
+    "DisplayName": "Decrepit Clapboard",
+    "Description": "Considerably increases the chances of being sent to Haddonfield when burnt.\n\n-Stacks.\n\"A moldy and rotten beaded oak clapboard like the ones found on most houses of Haddonfield.\"",
+    "IconName": "iconFavors_decrepitClapboard.png",
+    "Rarity": 1
   },
   {
-    "Id": "Anniversary2021Offering",
-    "DisplayName": "Sacrificial Cake",
-    "Description": "A revolting cake that marks our five years together. The slightest taste fills you with an incomprehensible energy, reaching out to something beyond. Grants 105% bonus Bloodpoints in all categories for all players this trial.\n\"Happy anniversary! We’re dying to celebrate many more with you!\" \n- The Dead by Daylight Team",
-    "IconName": "iconsFavors_5thAnniversary.png",
-    "Rarity": 5
-  },
-  {
-    "Id": "JapaneseCountrySide",
-    "DisplayName": "Yamaoka Family Crest",
-    "Description": "Tremendously increases the chances of being sent to Yamaoka Estate when burnt.\n-Secret.\n-Does not stack.\n\"You never leave a broken home. You only run away until the memories stop haunting you.\"",
-    "IconName": "iconFavors_yamaokasCrest.png",
-    "Rarity": 2
-  },
-  {
-    "Id": "KenyaThemeOffering",
-    "DisplayName": "Damaged Photo",
-    "Description": "Tremendously increases the chance to be sent to Ormond when burnt.\n-Secret.\n-Does not stack.\nAug. 28th, ‘96\n\"A dormant darkness lies beneath his childlike smile, about to be awaken.\"",
-    "IconName": "iconFavors_damagedPhoto.png",
-    "Rarity": 2
+    "Id": "HarvestFestivalLeaflet",
+    "DisplayName": "Harvest Festival Leaflet",
+    "Description": "Slightly increases the chances of being sent to Haddonfield when burnt.\n\n-Stacks.\n\"A washed out informational leaflet for the '78 Haddonfield Harvest Festival. A large cartoon pumpkin is depicted on the front.\"",
+    "IconName": "iconFavors_harvestFestivalLeaflet.png",
+    "Rarity": 0
   },
   {
     "Id": "ShockSplinter",
     "DisplayName": "Shock Splinter",
     "Description": "Allows you to take on the role of The Doctor for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"Your secrets are safe with me.\"",
     "IconName": "iconFavors_shockSplinter.png",
-    "Rarity": 4
+    "Rarity": 6
   },
   {
     "Id": "EmergencyCertificate",
@@ -714,88 +700,32 @@
     "Rarity": 2
   },
   {
-    "Id": "Anniversary2020Offering",
-    "DisplayName": "Ghastly Gateau",
-    "Description": "A spectacularly grim cake to mark our four years together. 1% tastier than a Gruesome Gateau. Grants 104% bonus Bloodpoints in all categories for all players this trial.\n\"Happy Anniversary! Here's to many more!\"\n- The Dead by Daylight Team",
-    "IconName": "iconFavors_4thAnniversary.png",
-    "Rarity": 5
+    "Id": "Anniversary2021Offering",
+    "DisplayName": "Sacrificial Cake",
+    "Description": "A revolting cake that marks our five years together. The slightest taste fills you with an incomprehensible energy, reaching out to something beyond. Grants 105% bonus Bloodpoints in all categories for all players this trial.\n\"Happy anniversary! We’re dying to celebrate many more with you!\" \n- The Dead by Daylight Team",
+    "IconName": "iconsFavors_5thAnniversary.png",
+    "Rarity": 0
   },
   {
-    "Id": "QuicheThemeOffering",
-    "DisplayName": "VIP Wristband",
-    "Description": "Tremendously increases the chance to be sent to Trickster's Delusion when burned.\n-Secret.\n-Does not stack.\n\"Mightee One Entertainment invites you to witness the future of virtual entertainment.\" ",
-    "IconName": "T_UI_iconsFavors_vipWristband.png",
+    "Id": "Halloween2021Offering",
+    "DisplayName": "Cursed Seed",
+    "Description": "Calls upon The Entity to generate 1 tangled hook and 1 tangled generator.\n-As a Killer, hook a Survivor on a tangled hook for the first time to earn bonus Bloodpoints.\n-As a Survivor, find and repair a tangled generator to earn bonus Bloodpoints.\n-Using this offering increases the amount of Bloodpoints earned for these interactions.\n-NOTE: During the event, 1 default tangled hook and 1 default tangled generator will spawn on the map.\n-Stacks.\n-Only playable during The Midnight Grove event.\"The seed crackles as if what's within is attempting to burst free.\"",
+    "IconName": "iconFavors_CursedSeed.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "UmbraThemeOffering",
+    "DisplayName": "Alien Flora",
+    "Description": "Tremendously increases the chance to be sent to Toba Landing when burnt.\n-Secret.\n-Does not stack.\n\"Our arrival will change the face of this planet as we know it.\" -Sarah, Science Officer",
+    "IconName": "iconFavors_alienFlora.png",
     "Rarity": 2
   },
   {
-    "Id": "QatarThemeOffering",
-    "DisplayName": "Hawkins National Laboratory I.D. ",
-    "Description": "Tremendously increases the chance to be sent to Hawkins National Laboratory when burnt.\n-Secret.\n-Does not stack.\n\"A soggy, bloodstained identification card with a serial number.\"",
-    "IconName": "iconFavors_hawkinsNationalLaboratoryID.png",
-    "Rarity": 2
-  },
-  {
-    "Id": "WalesThemeOffering",
-    "DisplayName": "Mary’s Letter",
-    "Description": "Tremendously increases the chance to be sent to Midwich Elementary School when burnt.\n-Secret.\n-Does not stack.\n\"In my restless dreams, I see that town.\"",
-    "IconName": "iconFavors_marysLetter.png",
-    "Rarity": 2
-  },
-  {
-    "Id": "IonThemeOffering",
-    "DisplayName": "Crow's Eye",
-    "Description": "Tremendously increases the chance to be sent to Forsaken Boneyard when burnt.\n-Secret.\n-Does not stack.\n\"The dark, beady eye shifts back and forth as if searching for a bloody strip of carrion.\"",
-    "IconName": "iconFavors_crowsEye.png",
-    "Rarity": 2
-  },
-  {
-    "Id": "SmokingSplinter",
-    "DisplayName": "Smoking Splinter",
-    "Description": "Allows you to take on the role of The Nightmare for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n",
-    "IconName": "iconFavors_smokingSplinter.png",
-    "Rarity": 4
-  },
-  {
-    "Id": "ThePiedPiper",
-    "DisplayName": "The Pied Piper",
-    "Description": "Tremendously increases the chances of being sent to Springwood when burnt.\n-Secret.\n-Does not stack.\n\"Betrayed by the town, he exacts his revenge by taking all their children.\"",
-    "IconName": "iconFavors_thePiedPiper.png",
-    "Rarity": 2
-  },
-  {
-    "Id": "GlassSplinter",
-    "DisplayName": "Glass Splinter",
-    "Description": "Allows you to take on the role of The Pig for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"Amanda, do not be afraid. Your life has just begun.\"-Jigsaw",
-    "IconName": "iconFavors_glassSplinter.png",
-    "Rarity": 4
-  },
-  {
-    "Id": "Jigsawpiece",
-    "DisplayName": "Jigsaw Piece",
-    "Description": "Tremendously increases the chances of being sent to Gideon Meat Plant when burnt.\n-Secret.\n-Does not stack.\n\"Congratulations. You are still alive. Most people are so ungrateful to be alive. But not you. Not anymore.\"",
-    "IconName": "iconFavors_jigsawPiece.png",
-    "Rarity": 2
-  },
-  {
-    "Id": "WormholeThemeOffering",
-    "DisplayName": "Airlock Doors",
-    "Description": "Tremendously increases the chance to be sent to Nostromo Wreckage when burnt.\n-Secret.\n-Does not stack.\n\"You know the quarantine procedure. 24 hours for decontamination.\" -Ellen Ripley",
-    "IconName": "iconFavors_airlockDoors.png",
-    "Rarity": 2
-  },
-  {
-    "Id": "UkraineThemeOffering",
-    "DisplayName": "Shattered Bottle",
-    "Description": "Tremendously increases the chance to be sent to Grave of Glenvale when burnt.\n-Secret.\n-Does not stack.\n\"Ain't much for holding a drink no more, but it can sure make a mess of a fella's throat.\"",
-    "IconName": "iconFavors_ShatteredBottle.png",
-    "Rarity": 2
-  },
-  {
-    "Id": "EclipseThemeOffering",
-    "DisplayName": "RPD Badge",
-    "Description": "Tremendously increases the chance of being sent to Raccoon City police station when burnt.\n-Secret.\n-Does not stack.\n\"If we stay here that monster will find us.\"",
-    "IconName": "iconsFavors_RPDBadge.png",
-    "Rarity": 2
+    "Id": "HalloweenOffering",
+    "DisplayName": "Pustula Petals",
+    "Description": "Calls upon The Entity to generate 1 Blighted Hook and 1 Blighted Generator.\n-As a Killer, hook a Survivor on a Blighted Hook for the first time to earn bonus Bloodpoints.\n-As a Survivor, find and repair a Blighted Generator to earn bonus Bloodpoints.\n-Using this offering increases the amount of Bloodpoints earned for these interactions.\n-NOTE: During the event, 1 default Blighted Hook and 1 default Blighted Generator will spawn in the map.\n-Stacks.\n-Only playable during the Midnight Grove Event.\"The pustulas fill the air with a rancid odor that some may find enticing.\"",
+    "IconName": "iconFavors_pustulaPetals.png",
+    "Rarity": 0
   },
   {
     "Id": "SacrificalWard",
@@ -833,6 +763,48 @@
     "Rarity": 0
   },
   {
+    "Id": "GlassSplinter",
+    "DisplayName": "Glass Splinter",
+    "Description": "Allows you to take on the role of The Pig for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"Amanda, do not be afraid. Your life has just begun.\"-Jigsaw",
+    "IconName": "iconFavors_glassSplinter.png",
+    "Rarity": 6
+  },
+  {
+    "Id": "Jigsawpiece",
+    "DisplayName": "Jigsaw Piece",
+    "Description": "Tremendously increases the chances of being sent to Gideon Meat Plant when burnt.\n-Secret.\n-Does not stack.\n\"Congratulations. You are still alive. Most people are so ungrateful to be alive. But not you. Not anymore.\"",
+    "IconName": "iconFavors_jigsawPiece.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "IonThemeOffering",
+    "DisplayName": "Crow's Eye",
+    "Description": "Tremendously increases the chance to be sent to Forsaken Boneyard when burnt.\n-Secret.\n-Does not stack.\n\"The dark, beady eye shifts back and forth as if searching for a bloody strip of carrion.\"",
+    "IconName": "iconFavors_crowsEye.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "Anniversary2020Offering",
+    "DisplayName": "Ghastly Gateau",
+    "Description": "A spectacularly grim cake to mark our four years together. 1% tastier than a Gruesome Gateau. Grants 104% bonus Bloodpoints in all categories for all players this trial.\n\"Happy Anniversary! Here's to many more!\"\n- The Dead by Daylight Team",
+    "IconName": "iconFavors_4thAnniversary.png",
+    "Rarity": 0
+  },
+  {
+    "Id": "SmokingSplinter",
+    "DisplayName": "Smoking Splinter",
+    "Description": "Allows you to take on the role of The Nightmare for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n",
+    "IconName": "iconFavors_smokingSplinter.png",
+    "Rarity": 6
+  },
+  {
+    "Id": "ThePiedPiper",
+    "DisplayName": "The Pied Piper",
+    "Description": "Tremendously increases the chances of being sent to Springwood when burnt.\n-Secret.\n-Does not stack.\n\"Betrayed by the town, he exacts his revenge by taking all their children.\"",
+    "IconName": "iconFavors_thePiedPiper.png",
+    "Rarity": 2
+  },
+  {
     "Id": "QuantumThemeOffering",
     "DisplayName": "Beef Tallow Mixture",
     "Description": "Tremendously increases the chance to be sent to The Decimated Borgo when burnt.\n-Secret.\n-Does not stack.\n\"The stink of rotting organic matter emanates from this foul mixture, designed with the grim intent to create a fire that burns very hot and very long.\"",
@@ -840,38 +812,73 @@
     "Rarity": 2
   },
   {
-    "Id": "Halloween2021Offering",
-    "DisplayName": "Cursed Seed",
-    "Description": "Calls upon The Entity to generate 1 tangled hook and 1 tangled generator.\n-As a Killer, hook a Survivor on a tangled hook for the first time to earn bonus Bloodpoints.\n-As a Survivor, find and repair a tangled generator to earn bonus Bloodpoints.\n-Using this offering increases the amount of Bloodpoints earned for these interactions.\n-NOTE: During the event, 1 default tangled hook and 1 default tangled generator will spawn on the map.\n-Stacks.\n-Only playable during The Midnight Grove event.\"The seed crackles as if what's within is attempting to burst free.\"",
-    "IconName": "iconFavors_CursedSeed.png",
-    "Rarity": 5
-  },
-  {
-    "Id": "BlackSplinter",
-    "DisplayName": "Black Splinter",
-    "Description": "Allows you to take on the role of The Shape for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"He came home!\" - Dr. Sam Loomis",
-    "IconName": "iconFavors_blackSplinter.png",
-    "Rarity": 4
-  },
-  {
-    "Id": "StrodeRealtyKey",
-    "DisplayName": "Strode Realty Key",
-    "Description": "Tremendously increases the chances of being sent to Haddonfield when burnt.\n-Secret.\n-Does not stack.\n\"A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: '45 Lampkin Lane'.\"",
-    "IconName": "iconFavors_strodeRealtyKey.png",
+    "Id": "UkraineThemeOffering",
+    "DisplayName": "Shattered Bottle",
+    "Description": "Tremendously increases the chance to be sent to Grave of Glenvale when burnt.\n-Secret.\n-Does not stack.\n\"Ain't much for holding a drink no more, but it can sure make a mess of a fella's throat.\"",
+    "IconName": "iconFavors_ShatteredBottle.png",
     "Rarity": 2
   },
   {
-    "Id": "DecrepitClapboard",
-    "DisplayName": "Decrepit Clapboard",
-    "Description": "Considerably increases the chances of being sent to Haddonfield when burnt.\n\n-Stacks.\n\"A moldy and rotten beaded oak clapboard like the ones found on most houses of Haddonfield.\"",
-    "IconName": "iconFavors_decrepitClapboard.png",
-    "Rarity": 1
+    "Id": "QuicheThemeOffering",
+    "DisplayName": "VIP Wristband",
+    "Description": "Tremendously increases the chance to be sent to Trickster's Delusion when burned.\n-Secret.\n-Does not stack.\n\"Mightee One Entertainment invites you to witness the future of virtual entertainment.\" ",
+    "IconName": "T_UI_iconsFavors_vipWristband.png",
+    "Rarity": 2
   },
   {
-    "Id": "HarvestFestivalLeaflet",
-    "DisplayName": "Harvest Festival Leaflet",
-    "Description": "Slightly increases the chances of being sent to Haddonfield when burnt.\n\n-Stacks.\n\"A washed out informational leaflet for the '78 Haddonfield Harvest Festival. A large cartoon pumpkin is depicted on the front.\"",
-    "IconName": "iconFavors_harvestFestivalLeaflet.png",
-    "Rarity": 0
+    "Id": "QatarThemeOffering",
+    "DisplayName": "Hawkins National Laboratory I.D. ",
+    "Description": "Tremendously increases the chance to be sent to Hawkins National Laboratory when burnt.\n-Secret.\n-Does not stack.\n\"A soggy, bloodstained identification card with a serial number.\"",
+    "IconName": "iconFavors_hawkinsNationalLaboratoryID.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "JapaneseCountrySide",
+    "DisplayName": "Yamaoka Family Crest",
+    "Description": "Tremendously increases the chances of being sent to Yamaoka Estate when burnt.\n-Secret.\n-Does not stack.\n\"You never leave a broken home. You only run away until the memories stop haunting you.\"",
+    "IconName": "iconFavors_yamaokasCrest.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "WormholeThemeOffering",
+    "DisplayName": "Airlock Doors",
+    "Description": "Tremendously increases the chance to be sent to Nostromo Wreckage when burnt.\n-Secret.\n-Does not stack.\n\"You know the quarantine procedure. 24 hours for decontamination.\" -Ellen Ripley",
+    "IconName": "iconFavors_airlockDoors.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "MeteorThemeOffering",
+    "DisplayName": "Ichorous Loam",
+    "Description": "Tremendously increases the chance to be sent to Withered Isle when burnt.\n-Secret.\n-Does not stack.\n\"Expel malthought from your mind, from your heart, from your mouth to prevent the darkness from corrupting your truth. For to let darkness find seed in your soul is to invite the Druanee.\"",
+    "IconName": "iconFavors_IchorousLoam.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "WalesThemeOffering",
+    "DisplayName": "Mary’s Letter",
+    "Description": "Tremendously increases the chance to be sent to Midwich Elementary School when burnt.\n-Secret.\n-Does not stack.\n\"In my restless dreams, I see that town.\"",
+    "IconName": "iconFavors_marysLetter.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "KenyaThemeOffering",
+    "DisplayName": "Damaged Photo",
+    "Description": "Tremendously increases the chance to be sent to Ormond when burnt.\n-Secret.\n-Does not stack.\nAug. 28th, ‘96\n\"A dormant darkness lies beneath his childlike smile, about to be awaken.\"",
+    "IconName": "iconFavors_damagedPhoto.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "EclipseThemeOffering",
+    "DisplayName": "RPD Badge",
+    "Description": "Tremendously increases the chance of being sent to Raccoon City police station when burnt.\n-Secret.\n-Does not stack.\n\"If we stay here that monster will find us.\"",
+    "IconName": "iconsFavors_RPDBadge.png",
+    "Rarity": 2
+  },
+  {
+    "Id": "BoneSplinter",
+    "DisplayName": "Bone Splinter",
+    "Description": "Allows you to take on the role of The Cannibal for the next trial. Your current perks and add-ons will not be used.\n\n-Secret.\n\"You like this face? \" -Hitchhiker",
+    "IconName": "iconFavors_boneSplinter.png",
+    "Rarity": 6
   }
 ]
